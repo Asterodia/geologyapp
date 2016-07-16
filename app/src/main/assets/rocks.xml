@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rocks>
+    <rock>
+        <rock_name>Potato</rock_name>
+        <rock_image>potato.png</rock_image>
+        <rock_desc>This is not a rock</rock_desc>
+        <rock_location>Ireland</rock_location>
+        <rock_subtype>Vegetable</rock_subtype>
+    </rock>
+    <rock>
+        <rock_name>Copper</rock_name>
+        <rock_image>copper.png</rock_image>
+        <rock_desc>This is a metal</rock_desc>
+        <rock_location>Underground</rock_location>
+        <rock_subtype>Metal</rock_subtype>
+    </rock>
+    <rock>
+        <rock_name>Rock</rock_name>
+        <rock_image>rock.png</rock_image>
+        <rock_desc>This might be a rock</rock_desc>
+        <rock_location>Floor</rock_location>
+        <rock_subtype>Unknown</rock_subtype>
+    </rock>
+</rocks>
