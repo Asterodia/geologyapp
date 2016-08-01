@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locations>
+    <location>
+        <location_name>Place</location_name>
+        <location_coord>N 46 S 67</location_coord>
+        <location_image>loc.png</location_image>
+        <location_descr>Blah blah blah</location_descr>
+    </location>
+    <location>
+        <location_name>Building</location_name>
+        <location_coord>00000</location_coord>
+        <location_image>building.png</location_image>
+        <location_descr>Derph</location_descr>
+    </location>
+    <location>
+        <location_name>Thing</location_name>
+        <location_coord>9999</location_coord>
+        <location_image>thing.png</location_image>
+        <location_descr>Bloop</location_descr>
+    </location>
+</locations>
