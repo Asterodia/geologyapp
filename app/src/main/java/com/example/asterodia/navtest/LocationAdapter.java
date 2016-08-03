@@ -5,6 +5,8 @@ import android.database.DataSetObserver;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.BaseExpandableListAdapter;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -14,7 +16,7 @@ import java.util.ArrayList;
 /**
  * Created by Asterodia on 31/07/2016.
  */
-public class LocationAdapter {
+public class LocationAdapter extends BaseExpandableListAdapter {
     private Context context;
     private LayoutInflater inflater;
     private ArrayList<LocationParent> mParent;

@@ -30,17 +30,12 @@ public class LocationList extends AppCompatActivity {
     //Added by Alex
     private ExpandableListView locationsList;
 
-    public class Location
-    {
-        public String name, image, desc, coords;
-    }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_location_list);
-
+        /*
         //Toolbar & Back button
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -56,6 +51,7 @@ public class LocationList extends AppCompatActivity {
                 finish();
             }
         });
+        */
         //Variables
 
         LocationXMLReader reader = new LocationXMLReader(this);

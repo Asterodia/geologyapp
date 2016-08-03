@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locations>
     <location>
-        <location_name>Place</location_name>
-        <location_coord>N 46 S 67</location_coord>
+        <location_name>1. BARTOLOMEU DIAS STATUE</location_name>
         <location_image>loc.png</location_image>
-        <location_descr>Blah blah blah</location_descr>
+        <location_descr>This is situated on the roundabout at the intersection of the Heerengracht and Walter 	Sisulu Avenue
+	(Fig. 2). The participants will leave the CTICC at the eastern entrance and care must be taken in
+	crossing the road to the roundabout. The statue was a gift from the Portuguese government to South
+	Africa on the occasion of the tercentenary celebrations of the landing of Jan van Riebeeck, but was
+	only unveiled in 1960 near the South African National Gallery and moved to the present site in about
+	1984 [15]. The statue is bronze and about 2.5 metres high, the sculptor being Professor Barata 		Feyo
+	[15]. It rests on a pedestal and a flat plinth of very light grey, coarse-grained, porphyritic granite of
+	the Cape Granite Suite. The pedestal was designed by the architect, Fernandes de Sá. The stone 		has a
+	sawn finish and contains lath-like orthoclase phenocrysts, up to 80 mm long. Grey to dark grey
+	xenoliths, a few of which have been partially assimilated by the granite, are also noticeable and
+	attain 100 mm in length. The porphyritic granite was possibly obtained from Mamre Quarry, near
+	Atlantis, since local quarries in the region of Kloof Nek, including the Higgo Quarry (Fig. 1), had
+	already been closed for a considerable period by the time that this memorial was built.
+	We cross the road on the southern side of the roundabout and briefly stop at a plaque
+	commemorating Bartolomeu Dias, which is mounted on a pedestal and base of the medium-grained
+	“Paarl Grey” granite, more extensive examples of which will be seen later on the tour. We proceed
+	southwest along the “island” between the two roads of the Heerengracht (Fig. 2) and pass numerous
+	blocks of sandstone with a sawn flat top for persons to sit. The sandstone is fine-grained, beige in
+	colour and cross-bedded in places. It is known commercially as “Golden Dawn” and is quarried from
+	Mookgopong (formerly Naboomspruit) in Limpopo Province. It is fluvial in origin and is from the Early
+	Jurassic Clarens Formation, Karoo Supergroup [16]. At the southern end of the “island”, we cross 		the
+	exit road to Hertzog Boulevard and arrive at the War Memorial (Fig. 2).</location_descr>
     </location>
     <location>
-        <location_name>Building</location_name>
-        <location_coord>00000</location_coord>
+        <location_name>2. WAR MEMORIAL</location_name>
         <location_image>building.png</location_image>
         <location_descr>Derph</location_descr>
     </location>
     <location>
-        <location_name>Thing</location_name>
-        <location_coord>9999</location_coord>
+        <location_name>3. VAN RIEBEECK STATUES</location_name>
         <location_image>thing.png</location_image>
         <location_descr>Bloop</location_descr>
     </location>
+
 </locations>

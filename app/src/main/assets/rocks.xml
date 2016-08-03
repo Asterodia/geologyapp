@@ -9,10 +9,10 @@
         <rock_subtype>Vegetable</rock_subtype>
     </rock>
     <rock>
-        <rock_name>Copper</rock_name>
+        <rock_name>porphyritic granite of the Cape Granite Suite</rock_name>
         <rock_image>copper</rock_image>
         <rock_desc>This is a metal</rock_desc>
-        <rock_location>Underground</rock_location>
+        <rock_location>obtained from Mamre Quarry, near Atlantis</rock_location>
         <location_image>underground.jpg</location_image>
         <rock_subtype>Metal</rock_subtype>
     </rock>
