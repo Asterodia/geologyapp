@@ -344,6 +344,10 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_name.png",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
     },

@@ -404,6 +404,10 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_name.png",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_off_light.png",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_off_light.png"
     },

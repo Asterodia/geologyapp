@@ -35,15 +35,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onLocationClick(View v){
-        Intent intent = new Intent(this, PlaceList.class);
+        Intent intent = new Intent(this, LocationList.class);
         startActivity(intent);
     }
 
     public void onMapsClick(View v) {
         Intent intent = new Intent(this, MapsActivity.class);
-        //EditText editText = (EditText) findViewById(R.id.edit_message);
-        //String message = editText.getText().toString();
-        //intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
 
     }

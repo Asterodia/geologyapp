@@ -10,14 +10,35 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.asterodia.navtest.PlaceList"
-    tools:showIn="@layout/activity_place_list">
+    tools:showIn="@layout/activity_location_list">
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Locations"
         android:id="@+id/button3"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="144dp" />
+        android:layout_marginBottom="66dp" />
+
+    <ExpandableListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/locationsList"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Test"
+        android:id="@+id/textView2"
+        android:layout_marginTop="123dp"
+        android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignStart="@+id/button3"
+        android:layout_marginLeft="66dp"
+        android:layout_marginStart="66dp" />
 </RelativeLayout>

@@ -20,12 +20,12 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_on_2_light.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_play_light.png",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_play_light.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_clear.png",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_play_light.png",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_play_light.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
@@ -378,6 +378,10 @@
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_disabled_light.png",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-mdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_name.png",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
