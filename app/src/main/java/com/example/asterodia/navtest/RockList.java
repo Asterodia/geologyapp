@@ -34,7 +34,7 @@ public class RockList extends AppCompatActivity {
             }
         });
         //Variables
-
+/*
         RockXMLReader reader = new RockXMLReader(this);
 
         mExpandableList = (ExpandableListView) findViewById(R.id.rocksList);
@@ -57,6 +57,7 @@ public class RockList extends AppCompatActivity {
 
         //sets the adapter that provides data to the list.
         mExpandableList.setAdapter(new RockAdapter(RockList.this, arrayParents));
+        */
     }
 
     public void onHomeButtonClick (View v) {
@@ -65,5 +66,9 @@ public class RockList extends AppCompatActivity {
         startActivity(intent);
     }
 
-
+    public void onClick_rock_1 (View v)
+    {
+        Intent intent = new Intent(this, rock_1.class);
+        startActivity(intent);
+    }
 }

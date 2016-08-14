@@ -9,15 +9,23 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.RockList"
-    tools:showIn="@layout/activity_rock_list">
+    tools:context="com.example.asterodia.navtest.LocationList"
+    tools:showIn="@layout/activity_location_list">
 
     <TextView
-        android:id="@+id/rock_1"
-        android:text="ROCK 1"
+        android:text="1. BARTOLOMEU DIAS STATUE"
+        android:id="@+id/loc_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:clickable="true"
-        android:onClick="onClick_rock_1" />
+        android:onClick="onClick_loc_1"/>
+    <TextView
+        android:text="2. War Memorial"
+        android:id="@+id/loc_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/loc_1"
+        android:clickable="true"
+        android:onClick="onClick_loc_2"/>
 
 </RelativeLayout>
