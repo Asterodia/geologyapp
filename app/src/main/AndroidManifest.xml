@@ -21,7 +21,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/igclogo"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -56,9 +56,6 @@
             android:name=".LocationList"
             android:label="Locations"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".MapsActivity"
-            android:label="@string/title_activity_maps" />
 
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
@@ -75,6 +72,146 @@
         <activity
             android:name=".loc_2"
             android:label="@string/title_activity_loc_2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_3"
+            android:label="@string/title_activity_loc_3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_5"
+            android:label="@string/title_activity_loc_5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_4"
+            android:label="@string/title_activity_loc_4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_2"
+            android:label="@string/title_activity_rock_2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_6"
+            android:label="@string/title_activity_loc_6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_7"
+            android:label="@string/title_activity_loc_7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_8"
+            android:label="@string/title_activity_loc_8"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_9"
+            android:label="@string/title_activity_loc_9"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_10"
+            android:label="@string/title_activity_loc_10"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_11"
+            android:label="@string/title_activity_loc_11"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_12"
+            android:label="@string/title_activity_loc_12"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_13"
+            android:label="@string/title_activity_loc_13"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_14"
+            android:label="@string/title_activity_loc_14"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_15"
+            android:label="@string/title_activity_loc_15"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_16"
+            android:label="@string/title_activity_loc_16"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_17"
+            android:label="@string/title_activity_loc_17"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_18"
+            android:label="@string/title_activity_loc_18"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_19"
+            android:label="@string/title_activity_loc_19"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_20"
+            android:label="@string/title_activity_loc_20"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_21"
+            android:label="@string/title_activity_loc_21"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_22"
+            android:label="@string/title_activity_loc_22"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_23"
+            android:label="@string/title_activity_loc_23"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_24"
+            android:label="@string/title_activity_loc_24"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_25"
+            android:label="@string/title_activity_loc_25"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_26"
+            android:label="@string/title_activity_loc_26"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_27"
+            android:label="@string/title_activity_loc_27"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_28"
+            android:label="@string/title_activity_loc_28"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_29"
+            android:label="@string/title_activity_loc_29"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_30"
+            android:label="@string/title_activity_loc_30"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_31"
+            android:label="@string/title_activity_loc_31"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_32"
+            android:label="@string/title_activity_loc_32"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_33"
+            android:label="@string/title_activity_loc_33"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_34"
+            android:label="@string/title_activity_loc_34"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_35"
+            android:label="@string/title_activity_loc_35"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".loc_36"
+            android:label="@string/title_activity_loc_36"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

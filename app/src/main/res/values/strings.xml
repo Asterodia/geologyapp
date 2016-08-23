@@ -1,55 +1,51 @@
 <resources>
-    <string name="app_name">NavTest</string>
+    <string name="app_name">Stones of Cape Town</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_rock_list">RockList</string>
+    <string name="title_activity_rock_list">Rock List</string>
     <string name="title_activity_place_list">PlaceList</string>
     <string name="title_activity_maps">Map</string>
+    <string name="tour_map_tooltip">Drag map to scroll</string>
 
     <!-- LOCATION VALUES -->
-    <string name="loc_rocks_label">Rocks found at location:</string>
+    <string name="loc_rocks_label">Stones found at this location:</string>
 
     <!-- loc_1 -->
-    <string name="title_activity_loc_1">loc_1</string>
-    <string name="loc_1_name">BARTOLOMEU DIAS STATUE</string>
-    <string name="loc_1_coords">N S</string>
-    <string name="loc_1_desc">This is situated on the roundabout at the intersection of the Heerengracht and Walter Sisulu Avenue
-(Fig. 2). The participants will leave the CTICC at the eastern entrance and care must be taken in
-crossing the road to the roundabout. The statue was a gift from the Portuguese government to South
+    <string name="title_activity_loc_1">Bartolomeu Dias Statue</string>
+    <string name="loc_1_coords">-33.917428, 18.428098 \n\n Roundabout at the intersection of the Heerengracht and Walter Sisulu Avenue.</string>
+    <string name="loc_1_desc"> The statue was a gift from the Portuguese government to South
 Africa on the occasion of the tercentenary celebrations of the landing of Jan van Riebeeck, but was
 only unveiled in 1960 near the South African National Gallery and moved to the present site in about
-1984 [15]. The statue is bronze and about 2.5 metres high, the sculptor being Professor Barata Feyo
-[15]. It rests on a pedestal and a flat plinth of very light grey, coarse-grained, porphyritic granite of
+1984. The statue is bronze and about 2.5 metres high, the sculptor being Professor Barata Feyo. It rests on a pedestal and a flat plinth of very light grey, coarse-grained, porphyritic granite of
 the Cape Granite Suite. The pedestal was designed by the architect, Fernandes de Sá. The stone has a
 sawn finish and contains lath-like orthoclase phenocrysts, up to 80 mm long. Grey to dark grey
 xenoliths, a few of which have been partially assimilated by the granite, are also noticeable and
 attain 100 mm in length. The porphyritic granite was possibly obtained from Mamre Quarry, near
-Atlantis, since local quarries in the region of Kloof Nek, including the Higgo Quarry (Fig. 1), had
+Atlantis, since local quarries in the region of Kloof Nek, including the Higgo Quarry, had
 already been closed for a considerable period by the time that this memorial was built.
 \n\n
 We cross the road on the southern side of the roundabout and briefly stop at a plaque
 commemorating Bartolomeu Dias, which is mounted on a pedestal and base of the medium-grained
 “Paarl Grey” granite, more extensive examples of which will be seen later on the tour. We proceed
-southwest along the “island” between the two roads of the Heerengracht (Fig. 2) and pass numerous
+southwest along the “island” between the two roads of the Heerengracht and pass numerous
 blocks of sandstone with a sawn flat top for persons to sit. The sandstone is fine-grained, beige in
 colour and cross-bedded in places. It is known commercially as “Golden Dawn” and is quarried from
 Mookgopong (formerly Naboomspruit) in Limpopo Province. It is fluvial in origin and is from the Early
-Jurassic Clarens Formation, Karoo Supergroup [16]. At the southern end of the “island”, we cross the
-exit road to Hertzog Boulevard and arrive at the War Memorial (Fig. 2).</string>
+Jurassic Clarens Formation, Karoo Supergroup. At the southern end of the “island”, we cross the
+exit road to Hertzog Boulevard and arrive at the War Memorial.</string>
 
     <!-- LOC_2 : -->
-    <string name="title_activity_loc_2">loc_2</string>
-    <string name="loc_2_name">WAR MEMORIAL</string>
-    <string name="loc_2_desc">The War Memorial lies on a traffic island in the middle of the Heerengracht and commemorates the
-1st and 2nd World Wars and the Korean War. It consists of three bronze sculptures, which rest on
+    <string name="title_activity_loc_2">War Memorial</string>
+    <string name="loc_2_coords">-33.918601, 18.426860 \n\n Traffic island in the middle of the Heerengracht</string>
+    <string name="loc_2_desc">The War Memorial commemorates the 1st and 2nd World Wars and the Korean War. It consists of three bronze sculptures, which rest on
 pedestals and plinths of beige-coloured, quartzitic sandstone of the Table Mountain Group, and four
 bronze bas-reliefs (low relief panels) on the lower part of the pedestal. The sculptor was Vernon
-March and the memorial was originally unveiled in 1924 [15]. The high central sculpture shows an
+March and the memorial was originally unveiled in 1924. The high central sculpture shows an
 angel treading on a serpent that is wrapped around a globe, which represents the Earth. The lower
 sculptures east and west of this central sculpture depict respectively, a South African soldier in East
 Africa and a South African soldier in Flanders during World War I. The four bas-reliefs depict various
 scenes from World War I. The memorial was originally erected at the bottom of Adderley Street close
-to the original coastline (Fig. 2) and moved by eight metres when Adderley Street was widened in
-1959, fourteen years after reclamation of the Foreshore [14, 15]. In 2013, it was moved again by
+to the original coastline and moved by eight metres when Adderley Street was widened in
+1959, fourteen years after reclamation of the Foreshore. In 2013, it was moved again by
 three hundred metres to its present position to make way for a new feeder station for the MyCiTi
 bus rapid transit system.
         \n\n
@@ -57,152 +53,146 @@ The quartzitic sandstone is hammer-dressed and was probably exploited from loose
 Kloof Nek (Bishop and Williams Quarry) and/or from quarries near Lakeside and Glencairn.It is fine- to coarse-grained, massive but cross-bedded in places, and contains scattered, white,
 rounded, quartz pebbles and greenish-grey mudstone clasts. The pedestals and plinths surmount a
 stepped podium constructed of light grey, medium-grained granite (Paarl Grey), which was taken
-from quarries west of Paarl [18]. The granite has a sawn finish and contains light grey to white, lathlike,
+from quarries west of Paarl. The granite has a sawn finish and contains light grey to white, lathlike,
 feldspar crystals, grey, glassy quartz crystals and black, flaky biotite crystals. Brown stains are
-locally present, due to oxidation of fine-grained, cubic pyrite crystals [18].</string>
+locally present, due to oxidation of fine-grained, cubic pyrite crystals.</string>
 
     <!-- loc_3 -->
-    <string name="title_activity_loc_3">loc_3</string>
-    <string name="loc_3_name">VAN RIEBEECK STATUES</string>
+    <string name="title_activity_loc_3">Van Riebeeck Statues</string>
+    <string name="loc_3_coords">-33.919460, 18.425995</string>
     <string name="loc_3_desc">The statues are of Jan van Riebeeck and Maria de
 la Quellerie. Both statues are bronze, about
 three metres high and rest on pedestals and
 plinths of quartzitic sandstone of the Table
 Mountain Group supported on two-stepped
-podiums of granite (Fig. 3). The Jan van Riebeeck
+podiums of granite. The Jan van Riebeeck
 statue was completed in 1899 and was
 commissioned by Cecil John Rhodes as a
 personal gift to the citizens of Cape Town, the
-sculptor being John Tweed [15]. It was placed at
+sculptor being John Tweed. It was placed at
 the end of Adderley Street close to the original
 shoreline near to the site where Van Riebeeck
-was thought to have landed in 1652 (Fig. 2). The
+was thought to have landed in 1652. The
 Maria de la Quellerie statue was commissioned
 by the Nederlandse van Riebeeck Comitee de
 Heren Zeventien in 1952, the sculptor being Dirk
 Wolbers, and was given by the people of the
 Netherlands to South Africa in commemoration
-of the tercentenary of Jan van Riebeeck’s arrival
-[15]. It was originally placed near the Jan van
+of the tercentenary of Jan van Riebeeck’s arrival. It was originally placed near the Jan van
 Riebeeck statue at the end of Adderley Street,
 but both statues were moved to their present
-site on the Foreshore in 1968 [15].
-        /n/n
+site on the Foreshore in 1968.
+        \n\n
     The quartzitic sandstone at the Jan van Riebeeck statue is buff to beige in colour, fine- to coarsegrained,
 massive and, in places, stained orange or brown, as a result of the precipitation of ironbearing
 minerals such as limonite. Scattered white, rounded, quartz pebbles, greenish-grey and dark
 greenish-grey mudstone clasts and cross-bedding are present in some sandstone blocks. A pebble
 bed can be seen in one block of the Jan van Riebeeck pedestal. These parameters are evidence of
-deposition within an ancient river during the Ordovician Period, some 470 million years ago [19]. The
-quartzitic sandstone in the pedestals and plinths of the Maria de la Quellerie statue (Fig. 3) shows
+deposition within an ancient river during the Ordovician Period, some 470 million years ago. The
+quartzitic sandstone in the pedestals and plinths of the Maria de la Quellerie statue shows
 similar properties. The two-stepped podiums at the foot of the plinths are constructed of different
 local granites, i.e. light grey to very light grey, coarse-grained, porphyritic granite at the Jan van
     \n\n
 Riebeeck statue and grey to light grey, medium-grained granite (Paarl Grey) at the Maria de la
 Quellerie statue. This is almost certainly due to the different ages of the statues. For the Jan van
 Riebeeck statue in 1899, coarse-grained, porphyritic granite was readily available from the Higgo
-Quarry near Kloof Nek (Fig. 1), but by 1952 when the Maria de la Quellerie statue was constructed,
+Quarry near Kloof Nek , but by 1952 when the Maria de la Quellerie statue was constructed,
 all the granite quarries in the vicinity of Cape Town had been closed and the only accessible, local
 Cape Granite was Paarl Grey from quarries west of Paarl. The quartzitic sandstone at the Jan van
 Riebeeck statue could have been derived from loose boulders near Kloof Nek at a site named Bishop
-and Williams Quarry (Fig. 1) and/or from quarries near Fish Hoek and Glencairn [18, 20], while in
+and Williams Quarry and/or from quarries near Fish Hoek and Glencairn , while in
 1952, this rock could still be obtained from Glencairn Quarry, which only closed in 1978.</string>
 
     <!-- loc_4 -->
-    <string name="title_activity_loc_4">loc_4</string>
-    <string name="loc_4_name">NUMBER 1 ADDERLEY STREET</string>
+    <string name="title_activity_loc_4">Number 1 Adderley Street</string>
+    <string name="loc_4_coords">-33.920366, 18.426443</string>
     <string name="loc_4_desc">This forms a fifteen storey, concrete framed building, which was designed by the Department of
-Transport in 1961 [21, 22]. Natural stone is confined to the ground floor with the remainder of the
+Transport in 1961. Natural stone is confined to the ground floor with the remainder of the
 building comprising a facade of steel panels and gravel-clad, precast concrete attached panels.
 Polished red granite (syenite) cladding is present on the window and door frames of the ground floor
-in a sawn finish (Fig. 4). It is accompanied by the 540 million year-old, light grey, medium-grained,
-Paarl Grey granite [23], which forms the basework of the ground floor and the steps of the building in
-a sawn finish (Fig. 4). The red granite is medium- to coarse-grained, slightly porphyritic and contains
+in a sawn finish. It is accompanied by the 540 million year-old, light grey, medium-grained,
+Paarl Grey granite, which forms the basework of the ground floor and the steps of the building in
+a sawn finish. The red granite is medium- to coarse-grained, slightly porphyritic and contains
 light grey to white, lath-like nepheline phenocrysts, up to 20 mm long, which are zoned and display a
 light brown, light green or brownish-yellow core. Abundant pinkish-red, lath-like, feldspar crystals
 and black, anhedral crystals of augite and hornblende are present. Sparse, white, glassy quartz can
 be seen, but forms less than ten per cent of the rock, which is in fact classified as a syenite, rather
 than granite. This syenite was quarried from an intrusive body in the Bushveld Complex at
-Hammanskraal, north of Pretoria [24] and is approximately 1400 million years old [25]. The Paarl
+Hammanskraal, north of Pretoria and is approximately 1400 million years old. The Paarl
 Grey granite contains very light grey to white, feldspar crystals, grey to light grey, glassy quartz and
 black, flaky crystals of biotite. Sparse dark grey to black xenoliths and rare brown stains due to
-oxidation of pyrite [18] are noticeable in this granite.</string>
+oxidation of pyrite are noticeable in this granite.</string>
 
     <!-- loc_5 -->
-    <string name="title_activity_loc_5">loc_5</string>
-    <string name="loc_5_name">THE CASTLE</string>
-    <string name="loc_5_desc">Only the outer walls of the Castle near the entrance will be examined (Fig. 5). The driveway leading
+    <string name="title_activity_loc_5">The Castle</string>
+    <string name="loc_5_coords">-33.926048, 18.428055 \n\n Darling St &#38; Buitenkant St, Cape Town, 8001, South Africa</string>
+    <string name="loc_5_desc" formatted="false">Only the outer walls of the Castle near the entrance will be examined. The driveway leading
 to the entrance is laid with grey to dark grey cobbles of medium- to coarse-grained leucogabbro,
 which from mineralogical studies of a chipped sample, contains very light grey to grey plagioclase
-feldspar (76%), black augite (19%), black orthopyroxene and an unknown accessory mineral (less than 1%).
-The cobbles were derived from loose boulders found within the castle grounds (G. Fagan, 2000,
-personal communication). The rock does not match any of the local basic rocks associated with the
+feldspar (76&#37;), black augite (19&#37;), black orthopyroxene and an unknown accessory mineral (less than 1&#37;).
+The cobbles were derived from loose boulders found within the castle grounds. The rock does not match any of the local basic rocks associated with the
 Cape Granite Suite, since it lacks their typical alteration minerals, i.e. chlorite, epidote, sericite,
-calcite and sphene (W. Jordaan, 2000, personal communication). It probably originated somewhere
+calcite and sphene. It probably originated somewhere
 in northwestern Europe and was brought to Cape Town as shipping ballast by the Dutch in the 17th
-and 18th centuries [cf. 26]. The main part of the castle was built between 1666 and 1684 on a
+and 18th centuries. The main part of the castle was built between 1666 and 1684 on a
 pentagonal plan with bastions projecting from the walls. It was designed by Sebastion de Vauban and
-Menno van Coehoorn and the gateway is the only Dutch Renaissance style remaining in South Africa
-[22]. The Castle is almost completely constructed of dark grey, dressed and pointed building blocks of
-hornfelsic slate and quartzitic slate of the Malmesbury Group (Fig. 5). These were exploited from
+Menno van Coehoorn and the gateway is the only Dutch Renaissance style remaining in South Africa. The Castle is almost completely constructed of dark grey, dressed and pointed building blocks of
+hornfelsic slate and quartzitic slate of the Malmesbury Group. These were exploited from
 Strand Street Quarry and other small quarries on Signal Hill, but the stone in the gateway was taken
 from two quarries on Robben Island situated on the crests of broad anticlines where, in contrast to
 Signal Hill, the bedding is more or less horizontal and slabs could be split using a cleavage
-perpendicular to the strike of the anticlinal crest [27]. The stone was originally bound using a lime or
-clay mortar, but this was largely replaced with cement mortar [23], although several examples of the
+perpendicular to the strike of the anticlinal crest. The stone was originally bound using a lime or
+clay mortar, but this was largely replaced with cement mortar, although several examples of the
 original lime mortar can still be seen. The original entrance to the castle was built on the north side
-facing the sea close to the original coastline (Fig. 2), but this proved impractical as high tides lapped
-the castle walls [27]. A new entrance with a more elaborate gateway was therefore constructed in
-1683 on the west side of the castle [27]. As a result of weathering over a period of 300 years, the
+facing the sea close to the original coastline, but this proved impractical as high tides lapped
+the castle walls. A new entrance with a more elaborate gateway was therefore constructed in
+1683 on the west side of the castle. As a result of weathering over a period of 300 years, the
 gateway was restored in 1999 using precast moulded blocks that mimic the Malmesbury Group
-hornfelsic slate with the original decorative stone blocks being stored within the castle in the Granary
-(G. Fagan, 2000, personal communication). Beige bricks in the tower above the gateway were
-imported from Holland [22] and the red bricks which form the parapet at the top of the stone walls
-(Fig. 5), were apparently imported from England in the early 1800s [28].</string>
+hornfelsic slate with the original decorative stone blocks being stored within the castle in the Granary. Beige bricks in the tower above the gateway were
+imported from Holland and the red bricks which form the parapet at the top of the stone walls, were apparently imported from England in the early 1800s.</string>
 
     <!-- loc_6 -->
-    <string name="title_activity_loc_6">loc_6</string>
-    <string name="loc_6_name">ANGLO-BOER WAR MEMORIAL</string>
+    <string name="title_activity_loc_6">Anglo-Boer War Memorial</string>
+    <string name="loc_6_coords"> </string>
     <string name="loc_6_desc">This memorial consists of a marble statue of a soldier and female figure placed on an inscribed
-marble pedestal of unknown origin. It was sculptured by Sir William Goscombe John in about 1904
-[15, 29] and rests on a plinth and stepped podium constructed of very light grey, coarse-grained,
+marble pedestal of unknown origin. It was sculptured by Sir William Goscombe John in about 1904, and rests on a plinth and stepped podium constructed of very light grey, coarse-grained,
 porphyritic granite of the Cape Granite Suite that was probably exploited from Higgo Quarry near
-Kloof Nek (Fig. 1). White to very light grey, orthoclase phenocrysts, i.e. elongate twinned laths up to
+Kloof Nek. White to very light grey, orthoclase phenocrysts, i.e. elongate twinned laths up to
 120 mm long, are conspicuous in this granite and small, flaky crystals of black biotite and silvery
 muscovite, and dark grey speckled xenoliths, some schistose, also stand out.</string>
 
     <!-- loc_7 -->
-    <string name="title_activity_loc_7">loc_7</string>
-    <string name="loc_7_name">CITY HALL</string>
+    <string name="title_activity_loc_7">City Hall</string>
+    <string name="loc_7_coords"> </string>
     <string name="loc_7_desc">The City Hall, which occupies the site bordered by Darling, Corporation, Longmarket and Parade
 Streets, is best viewed from Darling Street, where it faces the sun for most of the day. It was
 completed in 1905 with the architects being Reid and Green, who won a competition for the design
-of the building out of a total of seventeen entries [29]. It took five years to complete and shows a
-French Renaissance influence [28, 30], as well as British colonial influences and resembles Leeds
-Town Hall in England [29]. The building has a two-storey facade, with projecting sections in the
-centre and at either end, and has a prominent central tower [28]. Corinthian porticos face both the
-Grand Parade (Fig. 6) and Corporation Street [31].
+of the building out of a total of seventeen entries. It took five years to complete and shows a
+French Renaissance influence, as well as British colonial influences and resembles Leeds
+Town Hall in England. The building has a two-storey facade, with projecting sections in the
+centre and at either end, and has a prominent central tower. Corinthian porticos face both the
+Grand Parade and Corporation Street.
     \n \n
     The City Hall has been the venue of two important events. On 21st April 1947, Princess Elizabeth (the
 present Queen Elizabeth II) celebrated her 21st birthday with a grand ball in the City Hall and on 11th
 February 1990, Nelson Mandela made his freedom speech, on the official day of his release from
-prison, on the podium below the portico in front of the entrance in Darling Street (Fig. 6).
+prison, on the podium below the portico in front of the entrance in Darling Street.
         \n\n
         The striking beige colour of the building is a result of the superstructure being constructed of Jurassic
 (~ 170 million years old) limestone named “Bath Stone” from Monks Park Quarries near Bath,
-England [20, 31]. This contrasts with the light grey colour of the lower walling, basework pilasters and
-plinths (Fig. 6), which are built of coarse-grained, porphyritic granite of the Cape Granite Suite (~ 540
-million years old [2]), that was quarried from Higgo Quarry near Kloof Nek, Cape Town (Fig. 1). “Bath
+England. This contrasts with the light grey colour of the lower walling, basework pilasters and
+plinths, which are built of coarse-grained, porphyritic granite of the Cape Granite Suite (~ 540
+million years old), that was quarried from Higgo Quarry near Kloof Nek, Cape Town. “Bath
 Stone” had originally been specified for the superstructure, but local masons objected to imported
 stone so a beige-coloured, Permian-aged (~ 280 million years old) Karoo sandstone termed
-“Steenpan” was decided upon [31]. This sandstone was sourced from quarries situated near presentday
+“Steenpan” was decided upon. This sandstone was sourced from quarries situated near presentday
 Sasolburg in the Free State Province, but due to hostilities associated with the Anglo-Boer War
 coinciding with the start of construction in 1900, it was impossible to mine and transport stone by
-rail from this area [31]. It was then decided to use the original stone selected, “Bath Stone”, which
+rail from this area. It was then decided to use the original stone selected, “Bath Stone”, which
 was transported by ship from Bristol, which is the closest port to Bath.
         \n\n
         The limestone has been extensively carved into ornamental facework and forms window frames,
-arches, columns, cornices, pediments and balustrades around the exterior of the building (Fig. 6).
+arches, columns, cornices, pediments and balustrades around the exterior of the building.
 When examined closely, numerous very fine-grained, white, beige, pink and light brown, rounded
 spherules can be seen within a massive, very light grey to white calcareous matrix. The spherules are
 referred to as ooliths and the limestone is an oolitic limestone. These ooliths were formed in
@@ -210,11 +200,10 @@ seawater with concentric layers of calcium carbonate being precipitated around a
 or a small shell fragment. The roundness of the ooliths is due to their formation in an agitated, wavedominated
 environment. In some blocks, the curved outline of sea shell fragments can be seen, as
 well as minor, slightly sinuous, white calcite veins, which precipitated in fractures after the oolitic
-sediment had lithified. These sinuous veins are called “snail-creep” by the quarrymen (E. Robinson,
-2000, personal communication). A few blocks of limestone display cracking, flaking and spalling, as a
+sediment had lithified. These sinuous veins are called “snail-creep” by the quarrymen. A few blocks of limestone display cracking, flaking and spalling, as a
 result of weathering, possibly associated with “acid rain”. The exterior of the building was
 refurbished in 1996, with some blocks being replaced by precast concrete that was tinted to match
-the limestone (J. Rennie, 2001, personal communication).
+the limestone.
         \n\n
         The light grey, porphyritic granite displays its usual prominent features as seen earlier, namely very
 light grey, white or beige, elongate laths (phenocrysts) of orthoclase, which are twinned and up to
@@ -224,127 +213,123 @@ conspicuous minerals are quartz (grey to light grey and glassy) and plagioclase 
 and beige, lath-like crystals).
         \n\n
         Three other rocks are present in limited quantities. The polished columns of the Darling Street
-portico are constructed of brownish-red, coarse-grained granite (Fig. 6) and those of the Corporation
-Street portico of grey granite, both reported to have been imported from Aberdeen [31]. The
+portico are constructed of brownish-red, coarse-grained granite and those of the Corporation
+Street portico of grey granite, both reported to have been imported from Aberdeen. The
 pedestal moulds of the Darling Street columns are made of dark grey to black gabbro (known as
 “Rustenburg Grey” in the Stone Trade). The brownish-red, coarse-grained granite is slightly
 porphyritic with abundant feldspar phenocrysts. These are intensely microfractured with a red
 ferruginous infill and there are prolific grey, glassy quartz crystals that show a bluish tinge. The
 blueness in the quartz crystals is due to stress-induced fractures producing an internal reflection of
-light, which is indicative of tectonic deformation, as is the intense microfracturing in the feldspar
-[32]. Tectonically-deformed red granites are common in Sweden and Finland, where they are located
-in the root zones of the Caledonian (450 to 350 million years ago) fold belt [32]. It is probable that
+light, which is indicative of tectonic deformation, as is the intense microfracturing in the feldspar. Tectonically-deformed red granites are common in Sweden and Finland, where they are located
+in the root zones of the Caledonian (450 to 350 million years ago) fold belt. It is probable that
 the brownish-red granite originated in Sweden or Finland, since at the end of the 19th Century,
 granite blocks were being shipped to the stoneyards of Aberdeen, where they were cut, turned and
-polished before being sent to their final destination [32]. The grey, polished granite in the columns of
+polished before being sent to their final destination. The grey, polished granite in the columns of
 the Corporation Street portico is slightly porphyritic and foliated, with phenocrysts of white to light
 grey feldspar set in a groundmass of grey to light grey, glassy quartz, white, light grey and grey
 feldspar and abundant black mafic minerals, principally biotite. Isolated dark grey to black xenoliths
-are present. The fact that the granite is foliated rules out a Scottish origin (R. Thomas, 2001, personal
-communication) and a Swedish or Finnish origin may again be applicable. The gabbro pedestal
+are present. The fact that the granite is foliated rules out a Scottish origin and a Swedish or Finnish origin may again be applicable. The gabbro pedestal
 moulds at the base of the Darling Street columns were inserted during refurbishment of the building
-in 1996, and replaced badly spalled and eroded limestone blocks (J. Rennie, 2000, personal
-communication). Grey crystals of plagioclase and black pyroxene can be vaguely discerned in the
+in 1996, and replaced badly spalled and eroded limestone blocks. Grey crystals of plagioclase and black pyroxene can be vaguely discerned in the
 brightly polished blocks. The gabbro is derived from the Precambrian Bushveld Complex in the area
 between Brits and Rustenburg, South Africa and is approximately 2 050 million years old.
     </string>
 
     <!-- loc_8 -->
-    <string name="title_activity_loc_8">loc_8</string>
-    <string name="loc_8_name">SOUTH AFRICAN MUTUAL LIFE ASSURANCE SOCIETY</string>
+    <string name="title_activity_loc_8">South African Mutual Life Assurance Society</string>
+    <string name="loc_8_coords"> </string>
     <string name="loc_8_desc">The most striking feature of the South African Mutual Life Assurance Society building is the extensive
-sculpturing on polished granite cladding around the exterior of the building (Fig. 7), making it one of
-the most externally ornamented buildings in South Africa [15]. A continuous bas-relief frieze
+sculpturing on polished granite cladding around the exterior of the building, making it one of
+the most externally ornamented buildings in South Africa. A continuous bas-relief frieze
 depicting South African history is present on the first floor level, with that on Darling Street showing
-Van Riebeeck’s settlers meeting the Hottentots and the 1820 Settlers in the Eastern Cape (Fig. 7). On
+Van Riebeeck’s settlers meeting the Hottentots and the 1820 Settlers in the Eastern Cape. On
 Parliament Street, seven subjects depicting the history of the four provinces are present. Several
 other reliefs are present on individual granite slabs on the ground floor. The designer of the images
-was Ivan Mitford-Barberton and they were carved by Messrs McKillop and Clift in about 1939 [15,
-29]. Polished granite cladding is present on the ground floor, with concrete slabs over the remainder
-of the building (Fig. 7). This 13-storey block was completed in 1939 and the architects were Louw and
-Louw in association with F.M. Glennie [29]. The rock consists of a pink, orange and red migmatitic to
+was Ivan Mitford-Barberton and they were carved by Messrs McKillop and Clift in about 1939. Polished granite cladding is present on the ground floor, with concrete slabs over the remainder
+of the building. This 13-storey block was completed in 1939 and the architects were Louw and
+Louw in association with F.M. Glennie. The rock consists of a pink, orange and red migmatitic to
 gneissic granite, which contains grey to dark grey and black convoluted bands, patches, stringers and
-streaks (Fig. 8). It is named “Parys Granite” and was obtained from the vicinity of Parys, Free State,
-possibly from the Municipal Quarry [18]. It is approximately 3 100 million years old [33].
+streaks. It is named “Parys Granite” and was obtained from the vicinity of Parys, Free State,
+possibly from the Municipal Quarry. It is approximately 3 100 million years old.
     \n\n
         Examination of the granite reveals the presence of pink to red feldspar containing a red ferruginous
-infill within microfractures, very light grey to grey, glassy quartz and black biotite (Fig. 8). Some slabs
+infill within microfractures, very light grey to grey, glassy quartz and black biotite. Some slabs
 contain cross-cutting, black and blackish-red, straight to sinuous quartz veins, up to 15 mm wide,
-which are probably pseudotachylite veins (Fig. 8). Such veins formed as a result of high-speed shock
+which are probably pseudotachylite veins. Such veins formed as a result of high-speed shock
 waves caused by high-pressure impact of an extraterrestrial bolide, which caused an impact
 structure, centred on the present village of Vredefort, 200 to 300 km in diameter approximately 2000
 million years ago.
     </string>
 
-    <!-- loc_9 -->
-    <string name="title_activity_loc_9">loc_9</string>
-    <string name="loc_9_name">DAMELIN BUILDING</string>
+    <!-- loc_9 UNEDITED -->
+    <string name="title_activity_loc_9">Damelin Building</string>
+    <string name="loc_9_coords"> </string>
     <string name="loc_9_desc">This building lies adjacent to the South African Mutual Life Assurance Society building on the
-opposite side of Parliament Street. It was previously named the “Permanent Buildings” [1]. This
+opposite side of Parliament Street. It was previously named the “Permanent Buildings”. This
 seven storey building with an inset columned portico on the fifth floor was designed by the architect
-Stucke and completed in 1898 [29]. “Paarl Grey” granite is present throughout the building, in the
+Stucke and completed in 1898. “Paarl Grey” granite is present throughout the building, in the
 form of an ashlar facing with a sawn finish, and basework blocks in a rustic finish. The granite also
 forms the window surrounds, cornices and inset columned portico. Decorative ornamentation in the
-Fine Art Nouveau style has been sculptured on some blocks [29, 36]. The light grey, medium-grained
+Fine Art Nouveau style has been sculptured on some blocks. The light grey, medium-grained
 granite is slightly porphyritic with white, very light grey, light grey and beige feldspar laths, up to 15
 mm long, set in a groundmass of grey to light grey, glassy quartz, white to grey feldspar and flaky
 crystals of black biotite. Rare grey to dark grey, speckled xenoliths, up to 150 mm long, can be
 observed in the granite and some slabs exhibit light brownish-yellow stains, probably as a result of
-stone cleaning [29]. Drill holes for originally extracting the granite blocks can be seen in Parliament
+stone cleaning. Drill holes for originally extracting the granite blocks can be seen in Parliament
 Street.</string>
 
     <!-- loc_10 -->
-    <string name="title_activity_loc_10">loc_10</string>
-    <string name="loc_10_name">FIRST NATIONAL BANK</string>
+    <string name="title_activity_loc_10">First National Bank</string>
+    <string name="loc_10_coords"> </string>
     <string name="loc_10_desc">This six storey building was completed in 1933 and is the last major work of Sir Herbert Baker in
-South Africa [36] although A.T. Scott also contributed to the design [29]. The building has raised,
+South Africa although A.T. Scott also contributed to the design. The building has raised,
 inset, columned porticos with four simplified Corinthian columns between the third and fifth floors
 on both Adderley and Shortmarket Streets. Cape Dutch Revival teak windows and half shutters are
-present on the façade [36]. A bronze descriptive plaque near the Adderley Street entrance outlines
+present on the façade. A bronze descriptive plaque near the Adderley Street entrance outlines
 the history of the site followed by a paragraph stating: “The bank moved into the new building on 22
 July 1933. The white Table Mountain Sandstone of its walls was taken from a specially opened quarry
 near Ceres: The travertine and marble used for the walls and floor of the banking hall were specially
 imported from Italy”. This assumed Table Mountain Sandstone forms ashlar over the entire facade
 and builds the portico, columns, window surrounds and cornices. It was obtained from a quarry near
 Mitchell’s Pass and reputedly, more stonemasons were engaged on this project than on any other
-since the construction of the Union Buildings in Pretoria in 1910 [36]. The sandstone is light beige in
+since the construction of the Union Buildings in Pretoria in 1910. The sandstone is light beige in
 colour, fine- to medium-grained, massive and quartzitic. Vestiges of cross-bedding and horizontal
 bedding are present in a few slabs and isolated vugs containing medium-grained crystals of quartz
 occur in places. Silvery, flaky crystals of sericite are present. The sandstone lacks some of the
 characteristic features of the Table Mountain Group sandstones, i.e. a coarse-grained texture,
 isolated rounded pebbles of white quartz and orange- to brown-coloured iron stains, as previously
-seen in the Van Riebeeck statues at STOP 3. It resembles the quartzitic sandstone found within the
+seen in the Van Riebeeck statues at location 3. It resembles the quartzitic sandstone found within the
 phyllites and shales of the late Precambrian Malmesbury Group at the southern end of Mitchell’s
-Pass [37]. The ubiquitous Paarl Grey medium-grained granite in a rustic and sawn finish forms the
+Pass. The ubiquitous Paarl Grey medium-grained granite in a rustic and sawn finish forms the
 plinth of the building, as well as steps and abutments around the entrance.</string>
 
     <!-- loc_11 -->
-    <string name="title_activity_loc_11">loc_11</string>
-    <string name="loc_11_name">PEARNE BUILDING</string>
-    <string name="loc_11_desc">This building was built in 1903 and was designed by architects MacGillivray and Grant [30]. It has four
+    <string name="title_activity_loc_11">Pearne Building</string>
+    <string name="loc_11_coords"> </string>
+    <string name="loc_11_desc">This building was built in 1903 and was designed by architects MacGillivray and Grant. It has four
 storeys with a narrow Dutch gable and is one of the few remaining examples of a type of building
-based on a Dutch town-house still surviving in Cape Town [28]. The name of the original owners, C.H.
+based on a Dutch town-house still surviving in Cape Town. The name of the original owners, C.H.
 Pearne and Company and their advertisement “Ladies Outfits, Mantles and Costumes”, is still in
 place in the upper part of the facade. An inaccessible beige sandstone is present as ashlar on the first
 floor and on the verandah, as well as on the first to third floors of the building. This sandstone is
 probably a Karoo sandstone and was most likely extracted from quarries in the vicinity of Sasolburg
 or Vereeniging, which had access to the railway from Cape Town during the time of construction, i.e.
-after 1892 [13]. These sandstones tend to be friable, in contrast to those of the Table Mountain
+after 1892. These sandstones tend to be friable, in contrast to those of the Table Mountain
 Group, and are Permian in age (~ 280 million years old).
     \n\n
     Four columns are present on the ground floor in front of the building and consist of red granite. This
 granite is coarse-grained, porphyritic with red feldspar phenocrysts up to 30 mm long, which display
 microfracturing. These are set in a groundmass of white to light grey feldspar with incipient
 ferruginisation (red colouring), grey to light grey glassy quartz and black mafic minerals (mostly
-biotite and possibly hornblende) [32]. The deep red colour of the feldspar and their microfracturing is
+biotite and possibly hornblende). The deep red colour of the feldspar and their microfracturing is
 characteristic of Swedish or Finnish granites, which are located in the root zones of the Caledonian
-fold belt where deformation continued after their original intrusion [32]. It is most likely that, as in
+fold belt where deformation continued after their original intrusion. It is most likely that, as in
 the case of the red granite columns at the City Hall, the quarried blocks were first shipped to the
 stoneyards of Aberdeen for cutting, turning and polishing before being transported to Cape Town.
 The columns have a base block composed of a greyish-black, coarse-grained igneous rock identified
 as larvikite. Unfortunately, these have been painted black since compilation of the Building Stones
-Guidebook by Cole [1] and the iridescent shimmering effect on the polished surface typical of
-larvikite [32] can no longer be observed.
+Guidebook by Cole and the iridescent shimmering effect on the polished surface typical of
+larvikite can no longer be observed.
     \n\n
     The neighbouring two buildings on the southwestern side have a colonnade with four columns
 supporting a first-floor verandah. The columns comprise polished, grey, coarse-grained, porphyritic
@@ -356,35 +341,33 @@ been painted black, but a previously damaged one showed it to be composed of bei
 fine-grained sandstone.</string>
 
     <!-- loc_12 -->
-    <string name="title_activity_loc_12">loc_12</string>
-    <string name="loc_12_name">CONSTITUTION HOUSE</string>
-    <string name="loc_12_desc">This was formerly named Regis House [1] and was constructed around 1955. It is a fourteen storey,
-concrete framed building [29] that is mainly clad with precast concrete panels with an exposed
+    <string name="title_activity_loc_12">Constitution House</string>
+    <string name="loc_12_coords"> </string>
+    <string name="loc_12_desc">This was formerly named Regis House and was constructed around 1955. It is a fourteen storey,
+concrete framed building that is mainly clad with precast concrete panels with an exposed
 aggregate finish. However, polished cladding and floor tiles of white, cryptocrystalline marble are
 present on the ground floor. This marble contains grey, dark grey and light brownish-grey blotches
 and convoluted stringers and layers, which are characteristic of the 700 to 600 million year old
-Vanrhynsdorp or Namaqua Marble [16]. This marble occurs in a northwest-trending belt in the
-vicinity of Vanrhynsdorp and has been quarried intermittently since the 1920s [16, 18, 22].</string>
+Vanrhynsdorp or Namaqua Marble. This marble occurs in a northwest-trending belt in the
+vicinity of Vanrhynsdorp and has been quarried intermittently since the 1920s.</string>
 
     <!-- loc_13 -->
-    <string name="title_activity_loc_13">loc_13</string>
-    <string name="loc_13_name">RESERVE TAJ</string>
-    <string name="loc_13_desc">The Reserve Taj, formerly the ABC Branch of Standard Bank [1], is a five storey, concrete framed
-building that was completed in 1931, the architects being Black and Fagg [29]. A striking, light brown,
+    <string name="title_activity_loc_13">Reserve Taj</string>
+    <string name="loc_13_coords"> </string>
+    <string name="loc_13_desc">The Reserve Taj, formerly the ABC Branch of Standard Bank, is a five storey, concrete framed
+building that was completed in 1931, the architects being Black and Fagg. A striking, light brown,
 precast concrete ashlar that resembles sandstone, is present from the second floor upwards. Fluted
 Ionic columns composed of the same material occur on the second and third floors with a prominent
 overhanging cornice at the top of the third floor. The familiar light grey, medium-grained granite
 (Paarl Grey) forms a rustic basework on the ground floor and cladding on the ground and first floors.</string>
 
     <!-- loc_14 -->
-    <string name="title_activity_loc_14">loc_14</string>
-    <string name="loc_14_name">ABSA BUILDING</string>
+    <string name="title_activity_loc_14">ABSA Building</string>
+    <string name="loc_14_coords"> </string>
     <string name="loc_14_desc">The ABSA Building is a prominent thirteen storey,
 concrete framed block that faces down Bureau
-Street on the opposite side of Adderley Street
-(Fig. 2). The date of construction is unknown, but
-sandstone panels, which clad the building (Fig.
-9), were attached in 1957, as indicated on a
+Street on the opposite side of Adderley Street. The date of construction is unknown, but
+sandstone panels, which clad the building, were attached in 1957, as indicated on a
 metal descriptive plaque fixed to the ground
 floor, which also states that the architects were
 Kok and Orsmond. Two quartzitic sandstones are
@@ -392,23 +375,22 @@ present, but a few panels consist of fine-grained
 granite. A beige or very light grey to creamy
 white, fine- to medium-grained quartzitic
 sandstone that is commonly stained brown due
-to precipitation of iron-bearing minerals (Fig. 9)
+to precipitation of iron-bearing minerals
 occurs on the lower part of the facade, where it
 extends up to the third floor in the central part
 of the building, and is also present on four inset
 vertical facings, which extend to the top of the
 building. It is cross-bedded in places and
 contains scattered white, rounded, quartz
-pebbles (Fig. 9) and minor greenish-grey,
+pebbles and minor greenish-grey,
 elongate mudstone clasts. It was derived from
 the Table Mountain Group, possibly from
 Glencairn Quarry near Fish Hoek, which was still
 working in 1957, and the sandstones were
-dressed and polished in Pretoria (G. Fagan, 2000,
-personal communication).
+dressed and polished in Pretoria.
     \n\n
     The other quartzitic sandstone clads the remainder of the building, including some inset vertical
-facings on the ground (Fig. 9), first and second floors. It is light grey, fine-grained and is characterised
+facings on the ground, first and second floors. It is light grey, fine-grained and is characterised
 by flaky crystals of silvery muscovite, which are present on the surface of the panels, coinciding with
 the bedding planes. It mimics the Lekkersing quartzite that is quarried from east of Port Nolloth,
 South Africa and is approximately 700 to 600 million years old, more or less correlating with the local
@@ -418,112 +400,110 @@ phenocrysts set in a matrix of glassy quartz, beige and/or very light grey felds
 origin is unknown.</string>
 
     <!-- loc_15 -->
-    <string name="title_activity_loc_15">loc_15</string>
-    <string name="loc_15_name">TEMPLE CHAMBERS</string>
-    <string name="loc_15_desc">This building lies on the corner of Adderley and Wale Streets (Fig. 2) and was originally built as a
-three storey structure in 1894 by G.M. Alexander and extended to six storeys in 1930 [36]. A Van der
+    <string name="title_activity_loc_15">Temple Chambers</string>
+    <string name="loc_15_coords"> </string>
+    <string name="loc_15_desc">This building lies on the corner of Adderley and Wale Streets and was originally built as a
+three storey structure in 1894 by G.M. Alexander and extended to six storeys in 1930. A Van der
 Stel Foundation tablet reads “Site of the Hospital of the Netherlands East India Company 1697 or
 1699 - 1782". The present building has mostly been plastered, but the basework is composed of
 porphyritic granite of the Cape Granite Suite that was probably taken from the Higgo Quarry near
-Kloof Nek (Fig. 1). Participants should note the prominent very light grey to white orthoclase
+Kloof Nek. Participants should note the prominent very light grey to white orthoclase
 phenocrysts (elongate laths up to 120 mm long), some of which show twinning. Metal columns,
 which support a canopy above the pavement, are supported on bases made of the well-known, light
 grey, medium-grained granite (Paarl Grey) of the Cape Granite Suite seen in several of the previouslyvisited
 buildings. The same granite is present diagonally across the street, where it forms the plinth
-of the Smuts Statue (STOP 16; Fig. 2).</string>
+of the Smuts Statue (location 16).</string>
 
     <!-- loc_16 -->
-    <string name="title_activity_loc_16">loc_16</string>
-    <string name="loc_16_name">SMUTS STATUE</string>
-    <string name="loc_16_desc">The bronze statue of J.C. Smuts is twice life size and comprises a massive seated figure [15]. It was
+    <string name="title_activity_loc_16">Smuts Statue</string>
+    <string name="loc_16_coords"> </string>
+    <string name="loc_16_desc">The bronze statue of J.C. Smuts is twice life size and comprises a massive seated figure. It was
 erected in 1973 and is the last major work of the sculptor Ivan Mitford-Barberton. The granite was
 probably taken from Clift’s Quarry, west of Paarl and is light grey, medium-grained, slightly
 porphyritic and contains very light grey to white, microperthite phenocrysts up to 20 mm long.</string>
 
     <!-- loc_17 -->
-    <string name="title_activity_loc_17">loc_17</string>
-    <string name="loc_17_name">ST GEORGE’S CATHEDRAL</string>
+    <string name="title_activity_loc_17">St. George\'s Cathedral</string>
+    <string name="loc_17_coords"> </string>
     <string name="loc_17_desc">The first cathedral, which began as the Church of St George in 1830, was designed by John Skirrow
 and was based on the temple-fronted and towered church of St Pancras in London that had been
-completed in 1822 [28]. With the arrival of Bishop Robert Gray in 1848, St George’s became a
-cathedral [38]. The new cathedral was built alongside the first building from 1901 onwards, using the
+completed in 1822. With the arrival of Bishop Robert Gray in 1848, St George’s became a
+cathedral. The new cathedral was built alongside the first building from 1901 onwards, using the
 architects Herbert Baker and Francis Masey. It is built of quartzitic sandstone of the Table Mountain
-Group in a rustic finish and has an Edwardian Gothic Revival style with a “Broseley” tiled roof [30].
+Group in a rustic finish and has an Edwardian Gothic Revival style with a “Broseley” tiled roof.
 Construction occurred intermittently with the north transept being added from 1930 until 1936
 under the direction of architect F.K. Kendall, who amended Baker’s original design. In 1957, the south
 transept was completed under C.D. St Leger and the bell tower was the last fixture to be added in the
-1980s. The first cathedral was finally demolished in 1954 [28].
+1980s. The first cathedral was finally demolished in 1954.
     \n\n
     The sandstone is buff to beige in colour, fine- to coarse-grained, massive and, in places, cross-bedded
 and stained brown due to precipitation of iron-bearing minerals. Quartz grains in the sandstone are
 rounded to subangular and fine-grained mafic minerals are rare. Isolated white, rounded, quartz
-pebbles are present (Fig. 10). The sandstone was almost certainly derived from loose boulders near
-Kloof Nek, including a site named Bishop and Williams Quarry (Fig. 1), and also from quarries in the
-vicinity of Muizenberg and Fish Hoek [18, 20].
+pebbles are present. The sandstone was almost certainly derived from loose boulders near
+Kloof Nek, including a site named Bishop and Williams Quarry, and also from quarries in the
+vicinity of Muizenberg and Fish Hoek.
     \n\n
     Two varieties of slate form the steps and paving slabs in front of the cathedral and along its western
-side (Fig. 11). One, which is dark grey or dark greenish-grey in colour, is hard and cleaved in places,
+side. One, which is dark grey or dark greenish-grey in colour, is hard and cleaved in places,
 and ripple marks are present on a few slabs, as well as siltstone and sandstone beds, up to 7 cm
 thick. The latter are prominent along the western side of the cathedral, where load casts, ball-andpillow
 structure and lenticular bedding can be seen. Horizontal bedding is also present and these
-siltstone and sandstone beds were probably deposited by turbidity currents [7]. This slate was
+siltstone and sandstone beds were probably deposited by turbidity currents. This slate was
 apparently obtained from quarries in the Malmesbury Group rocks on Robben Island during
-construction of the first cathedral in the 1830s [29]. In contrast, the other slate, which is very dark
-grey and is randomly mixed with the Malmesbury Group slate (Fig. 11), is particularly abundant on
+construction of the first cathedral in the 1830s. In contrast, the other slate, which is very dark
+grey and is randomly mixed with the Malmesbury Group slate, is particularly abundant on
 the upper podium and steps in front of the cathedral and lacks any sedimentary features. However, it
 does show a well-developed cleavage and silvery muscovite flakes on some slabs. It resembles slate
-found in the Swartruggens area, North West Province [39], which formed as a result of burial
+found in the Swartruggens area, North West Province, which formed as a result of burial
 metamorphism and thermal metamorphism during intrusion of the igneous rocks of the Bushveld
 Complex between about 2060 and 2050 million years ago.</string>
 
     <!-- loc_18 -->
-    <string name="title_activity_loc_18">loc_18</string>
-    <string name="loc_18_name">MANDELA-RHODES BUILDING</string>
-    <string name="loc_18_desc">The Mandela-Rhodes Building, originally named the Rhodes Building [29], was designed by Herbert
-Baker and Francis Masey and was completed in 1902, some 6 months after Cecil Rhodes’s death [40].
+    <string name="title_activity_loc_18">Mandela-Rhodes Building</string>
+    <string name="loc_18_coords"> </string>
+    <string name="loc_18_desc">The Mandela-Rhodes Building, originally named the Rhodes Building, was designed by Herbert
+Baker and Francis Masey and was completed in 1902, some 6 months after Cecil Rhodes’s death.
 It is a Cape Revival style building, steel or concrete framed, with five storeys and an attic. Dutch-
 Flemish gables are present at attic level and the top floor has an engaged squat colonnade
-supporting a granite cornice. Porphyritic Cape Granite from the Higgo Quarry (Fig. 1) predominates in
+supporting a granite cornice. Porphyritic Cape Granite from the Higgo Quarry predominates in
 the building, forming a complete ashlar facade, together with balconies, window surrounds, a squat
 colonnade, cornice, parapet, gables and entrance steps. Some decorative ornamentation has been
 carved on the granite. The granite can be inspected at street level, where the basework has a rock
 finish. The granite is light grey, coarse-grained and porphyritic with very light grey, orthoclase
 phenocrysts, up to 80 mm long with twinning. The groundmass consists of grey to light grey, glassy
 quartz, white, light grey and grey feldspar, black biotite and rare silvery muscovite. Sparse, black,
-elongate tourmaline crystals, which, in places, cluster into clots [7], and dark grey, speckled xenoliths
+elongate tourmaline crystals, which, in places, cluster into clots, and dark grey, speckled xenoliths
 are present.</string>
 
     <!-- loc_19 -->
-    <string name="title_activity_loc_19">loc_19</string>
-    <string name="loc_19_name">MANDELA-RHODES PLACE</string>
+    <string name="title_activity_loc_19">Mandela-Rhodes Place</string>
+    <string name="loc_19_coords"> </string>
     <string name="loc_19_desc">This was originally Syfrets Bank, later becoming Nedcor Investment Bank and finally Mandela-Rhodes
 Place. The building is a steel or concrete framed building with six storeys and two attic levels. It has a
-19
 symmetrical facade and was designed by Franklin Kendall in the Arts and Crafts tradition, being
-completed in 1927 [29, 36]. There are Ionic columns in front of a recessed balcony on the third and
+completed in 1927. There are Ionic columns in front of a recessed balcony on the third and
 fourth floors, together with a balustrade and main cornice. The top levels rise to twin square copper
 roofed corner turrets and attic dormers. Paarl Grey granite forms rusticated building blocks on the
 ground floor, as well as the steps and cladding around the entrance. The upper level window
 surrounds, Ionic columns, balustrade and cornice are built of inaccessible, beige-coloured sandstone,
 and red facebrick walling is present between the first floor and the attic level corner turrets. The
 sandstone is probably a Permian Karoo sandstone and may have been sourced from the former
-Transvaal, South Africa [29], which given the date of the building, was most likely transported by rail
-from quarries near Vereeniging or Wolwehoek, near present-day Sasolburg [18]. The Paarl Grey
+Transvaal, South Africa, which given the date of the building, was most likely transported by rail
+from quarries near Vereeniging or Wolwehoek, near present-day Sasolburg. The Paarl Grey
 granite is typically medium-grained and slightly porphyritic. The contrast between the two local Cape
-Granites can be seen where this building is juxtaposed against the Mandela-Rhodes Building (Fig. 12).</string>
+Granites can be seen where this building is juxtaposed against the Mandela-Rhodes Building.</string>
 
     <!-- loc_20 -->
-    <string name="title_activity_loc_20">loc_20</string>
-    <string name="loc_20_name">BISHOP GRAY MONUMENT</string>
+    <string name="title_activity_loc_20">Bishop Gray Monument</string>
+    <string name="loc_20_coords"> </string>
     <string name="loc_20_desc">The monument was originally erected in Wale Street in 1876 in front of the old cathedral before
-being re-positioned in the Cathedral grounds near Queen Victoria Street [29] and finally moved to its
+being re-positioned in the Cathedral grounds near Queen Victoria Street and finally moved to its
 present site in 1992 when St. George’s Street was converted into a mall. Robert Gray was the first
 bishop of Cape Town. After his death in 1872, William Butterfield, who was an architect and lifelong
 friend of Robert Gray, designed a memorial to him in the form of a cross on a column of granite set
-on a pedestal and plinth of various rock types [38]. The monument, which is about seven metres
-20
+on a pedestal and plinth of various rock types. The monument, which is about seven metres
 high, essentially comprises an Ionic column, surmounted by a ball and metal cross, all set on a
-pedestal with corner urns and pillars, resting on a plinth and stepped podium (Fig. 13) [29].
+pedestal with corner urns and pillars, resting on a plinth and stepped podium.
     \n\n
     Most of the stones were imported from
 Great Britain, and the author is grateful
@@ -534,15 +514,15 @@ stones with reasonable accuracy. The
 Ionic column, corner pillars on the
 upper part of the pedestal and two
 central cladded slabs on the lower part
-of the pedestal (Fig. 12) are composed
+of the pedestal are composed
 of polished, reddish- pink, medium- to
 coarse-grained granite obtained from
 north of Aberdeen, Scotland and known
 in the Stone Trade as “Peterhead
-Granite” [41]. This granite can be
+Granite”. This granite can be
 recognised by its colour, texture and
 square shapes of the pink and white
-feldspar phenocrysts (Figs. 14 and 15).
+feldspar phenocrysts.
 Other minerals present are light grey to
 dark grey, glassy quartz and black or
 greenish black mafic minerals, including
@@ -553,7 +533,7 @@ old). The basal part of the pedestal,
 cornices, urns and surrounds of the
 “Peterhead Granite” slabs are
 composed of beige and creamy white
-limestone (Figs. 13, 14 and 15).
+limestone.
     \n\n
     The limestone consists of rounded spherules called ooliths, and shell fragments set in a very finegrained,
 calcareous matrix. Some limestone slabs are considerably shell-rich, whereas others contain
@@ -567,54 +547,51 @@ carbonate being precipitated in concentric layers around a nucleus of quartz or 
 in an agitated, wave-dominated environment. The limestone is pitted and spalled due to weathering,
 possibly associated with “acid rain” and some slabs have been cement mortar repaired. A polished,
 very light grey to white, fossiliferous limestone makes up the central cladded slabs, one with a carved
-decorative inscription, on the upper part of the pedestal (Fig. 13), and another on the opposite
+decorative inscription, on the upper part of the pedestal, and another on the opposite
 southern side, with an attached white marble cross and two hemispheres. The limestone, which is
 considerably harder than the Portland Stone, is massive, cryptocrystalline and contains abundant
-straight, hollow, open and tapering tube-like structures, up to 0.2 m long and 40 mm wide (Fig. 15).
+straight, hollow, open and tapering tube-like structures, up to 0.2 m long and 40 mm wide.
 Transverse sections are normally circular or oval and transverse partitions in the walls of the
 
 structure are approximately 10 mm apart. These tube-like structures are probably the fossilised
-stems of crinoids, commonly referred to as “sea-lilies” [42]. The limestone is Early Carboniferous in
+stems of crinoids, commonly referred to as “sea-lilies”. The limestone is Early Carboniferous in
 age (~ 350 million years old) and would have had a similar origin to that of the younger Portland
-Stone. It was possibly exploited from quarries in Derbyshire, England (E. Robinson, 2000, personal
-communication). The white marble cross and hemispheres are inaccessible, but can be seen to be
+Stone. It was possibly exploited from quarries in Derbyshire, England. The white marble cross and hemispheres are inaccessible, but can be seen to be
 massive and cryptocrystalline with sparse, light grey, convoluted stringers and layers. This marble is
 thought to be Carrara Marble from Italy.
     \n\n
-        The corner pillars on the lower part of pedestal (Fig. 14) are constructed of reddish-brown, very fineto
+        The corner pillars on the lower part of pedestal are constructed of reddish-brown, very fineto
 fine-grained, massive and slightly friable sandstone containing iron-stained, subrounded to
 rounded, “millet-seed” quartz grains. This sandstone matches the New Red Sandstone of the British
 Isles and represents an ancient desert sand dune of Permian age (~ 270 million years old). The
-distinctive colour indicates that it was probably quarried from Mansfield in Nottinghamshire, England
-(E. Robinson, 2000, personal communication).
+distinctive colour indicates that it was probably quarried from Mansfield in Nottinghamshire, England.
         \n\n
         The remaining building stones are from South Africa, but one of these was substituted for the
-original British stones when the monument was moved to its present site in 1992 (W. Clift, 2000,
-personal communication). This stone, which is a beige, very fine- to fine-grained sandstone from
+original British stones when the monument was moved to its present site in 1992. This stone, which is a beige, very fine- to fine-grained sandstone from
 Ficksburg, replaces two central cladded slabs of “Peterhead Granite” that had been damaged on the
 lower part of the pedestal, and the badly weathered “Portland Stone” border of another granite slab
 on the southern side of the pedestal. The sandstone is massive and composed of very light grey,
 subangular to subrounded, glassy quartz and feldspar grains, black, flaky biotite grains and sparse
 greenish-grey, elongate mudstone clasts. It was probably quarried from the upper part of the Triassic
-(~ 220 million years old) Molteno Formation [16], with the original sediments being deposited in
+(~ 220 million years old) Molteno Formation, with the original sediments being deposited in
 rivers, after which they eventually became consolidated into sandstone.
         \n\n
-        The plinth and steps of the podium (Fig. 13) are composed of very light grey, coarse-grained,
+        The plinth and steps of the podium are composed of very light grey, coarse-grained,
 porphyritic granite of the Cape Granite Suite, which was possibly exploited from the Higgo Quarry in
-the vicinity of Kloof Nek (Fig. 1). The twinned orthoclase phenocrysts (lath-like crystals up to 60 mm
+the vicinity of Kloof Nek. The twinned orthoclase phenocrysts (lath-like crystals up to 60 mm
 long) characteristic of this local granite, are again conspicuous. The paving slabs of the stepped
-podium consist of dark grey to black, finely cleaved slate (Fig. 13), which was probably added during
+podium consist of dark grey to black, finely cleaved slate, which was probably added during
 the 1992 move. Note the presence of silvery muscovite flakes in some of the slabs. The slate is similar
-to that seen outside St George’s Cathedral (Fig. 11) and is from Pretoria Group rocks in the area
-between Mazista and Swartruggens in the North West Province [39].
+to that seen outside St George’s Cathedral and is from Pretoria Group rocks in the area
+between Mazista and Swartruggens in the North West Province.
     </string>
 
     <!-- loc_21 -->
-    <string name="title_activity_loc_21">loc_21</string>
-    <string name="loc_21_name">TAJ HOTEL</string>
+    <string name="title_activity_loc_21">Taj Hotel</string>
+    <string name="loc_21_coords"> </string>
     <string name="loc_21_desc">This building was originally the Reserve Bank, which later became the Board of Executors Building
 and finally, in 2010, was converted into the Taj Hotel. The architectural style is Cape Italianate and it
-was drawn up by the architect James Morris, who won an award for its design [29, 36]. The building
+was drawn up by the architect James Morris, who won an award for its design. The building
 has a basement and five storeys and was finished in 1929. It contains bronze gates, grilles and teak
 sash windows and metal shutters. The building abounds with the locally-produced Paarl Grey granite,
 which takes the form of an ashlar facade, the entrance steps and cornice, and rustic building blocks
@@ -625,10 +602,10 @@ grey to light grey, glassy quartz and black flaky biotite. Rare dark grey speckl
 mm long, are present.</string>
 
     <!-- loc_22 -->
-    <string name="title_activity_loc_22">loc_22</string>
-    <string name="loc_22_name">THE RESERVE</string>
+    <string name="title_activity_loc_22">The Reserve</string>
+    <string name="loc_22_coords"> </string>
     <string name="loc_22_desc">The Reserve was formerly the ABC Branch of Standard Bank and extends through to the Reserve Taj
-in Adderley Street, which we have already seen at STOP 13 (Fig. 2). Both buildings have an identical
+in Adderley Street, which we have already seen at location 13. Both buildings have an identical
 façade and building stones. The Reserve building is concrete framed with five storeys and was
 completed around 1931 using the architects Black and Fagg. The ubiquitous Paarl Grey granite is
 present as rustic basework on the ground floor and cladding on the ground and first floors. Some
@@ -636,57 +613,57 @@ decorative heads and artwork have been sculptured on the ground and first floors
 cladding extends along the ground floor and entrance of the adjacent building to the southwest,
 Number 117 St. George’s Mall. Light brown, precast concrete ashlar that resembles sandstone, is
 present from the second floor upwards, and builds fluted Ionic columns on the second and third
-floors, and a prominent overhanging cornice at the top of the third floor [29].</string>
+floors, and a prominent overhanging cornice at the top of the third floor.</string>
 
     <!-- loc_23 -->
-    <string name="title_activity_loc_23">loc_23</string>
-    <string name="loc_23_name">EQUITY HOUSE</string>
+    <string name="title_activity_loc_23">Equity House</string>
+    <string name="loc_23_coords"> </string>
     <string name="loc_23_desc">Equity House was previously named Traduna House, and shows Art Nouveau overtones in finely
-worked granite [30]. It was designed by the architects, MacGillivray and Grant, and is a six storey,
-steel or concrete framed structure that was built between 1906 and 1907 [29]. The locally-produced
-Paarl Grey granite dominates the building in the form of a complete ashlar façade (Fig. 16), which
-resembles that already seen at STOP 21, the Taj Hotel. Artwork and decorative ornamentation have
-been sculptured onto this granite on the fifth and sixth floors (Fig. 16). Additionally, black lardalite, a
+worked granite. It was designed by the architects, MacGillivray and Grant, and is a six storey,
+steel or concrete framed structure that was built between 1906 and 1907. The locally-produced
+Paarl Grey granite dominates the building in the form of a complete ashlar façade, which
+resembles that already seen at location 21, the Taj Hotel. Artwork and decorative ornamentation have
+been sculptured onto this granite on the fifth and sixth floors. Additionally, black lardalite, a
 coarse-grained, nepheline syenite characterised by rhomb-shaped feldspar crystals, and large crystals
-of grey nepheline (R. Thomas, 2000, personal communication), form polished street-level cladding.
+of grey nepheline, form polished street-level cladding.
 This igneous rock is located near Larvik, Norway, is Early Permian (~ 292 million years) in age and
 resembles larvikite, but does not display the blue iridescent shimmering effect on the polished
-surface [41].</string>
+surface.</string>
 
     <!-- loc_24 -->
-    <string name="title_activity_loc_24">loc_24</string>
-    <string name="loc_24_name">118 AND 116 ST. GEORGE’S MALL</string>
+    <string name="title_activity_loc_24">118 and 116 St. George\'s Mall</string>
+    <string name="loc_24_coords"> </string>
     <string name="loc_24_desc">The United Building at 118 St. George’s Mall is a ten storey, concrete or steel framed structure that
-was probably completed in 1938 [29]. It has a similar layout to that of Equity House and the Taj
+was probably completed in 1938. It has a similar layout to that of Equity House and the Taj
 Hotel, i.e. a complete Paarl Grey granite ashlar facade. However, decorative artwork and
 ornamentation are lacking and a few granite slabs show light brown iron stains, possibly due to
-cleaning chemicals used in 1975 [29]. On the adjacent building, 116 St. George’s Mall, Paarl Grey
+cleaning chemicals used in 1975. On the adjacent building, 116 St. George’s Mall, Paarl Grey
 granite is limited to cladding on the ground floor in a rustic finish. The remainder of the six storey
-concrete or steel framed building is plastered and it was constructed in approximately 1926 [29].</string>
+concrete or steel framed building is plastered and it was constructed in approximately 1926.</string>
 
     <!-- loc_25 -->
-    <string name="title_activity_loc_25">loc_25</string>
-    <string name="loc_25_name">PROTEA ASSURANCE BUILDING</string>
+    <string name="title_activity_loc_25">Protea Assurance Building</string>
+    <string name="loc_25_coords"> </string>
     <string name="loc_25_desc">This nine storey, concrete framed building was completed in 1930 using the design of the architects,
 Jones and Adams, and was renovated in 1965, which included an arcade linking through to
-Greenmarket Square [29]. The façade on St. George’s Mall combines Art Deco and classical features
-in plaster and concrete [29, 36], which are painted white. Geologically, the familiar Paarl Grey granite
+Greenmarket Square. The façade on St. George’s Mall combines Art Deco and classical features
+in plaster and concrete, which are painted white. Geologically, the familiar Paarl Grey granite
 is the only rock present and occurs as polished cladded slabs on the ground floor and builds plinth
 blocks below the columns of a concrete colonnade and balcony on St. George’s Mall. The light grey,
 medium-grained, slightly porphyritic granite has a similar texture and mineralogy to that just seen in
 several buildings along St. George’s Mall.</string>
 
     <!-- loc_26 -->
-    <string name="title_activity_loc_26">loc_26</string>
-    <string name="loc_26_name">NEDBANK, 85 ST. GEORGE’S MALL</string>
+    <string name="title_activity_loc_26">Nedbank, 85 St. George\'s Mall</string>
+    <string name="loc_26_coords"> </string>
     <string name="loc_26_desc">This building was completed in 1907 and was designed by architects W. Black, H. Black and G. Fagg,
 who were placed first and second in submissions for a competition staged for the project by the New
-York Mutual Insurance Company [29, 30]. The seven storey, steel framed building is highly decorated
-with swag, egg and dart mouldings and fluted pilasters [29]. Very light grey, coarse-grained,
+York Mutual Insurance Company. The seven storey, steel framed building is highly decorated
+with swag, egg and dart mouldings and fluted pilasters. Very light grey, coarse-grained,
 porphyritic granite of the Cape Granite Suite, which was presumably taken from the Higgo Quarry
-near Kloof Nek (Fig. 1), builds the ground floor basework in a rustic finish and clads the first floor and
+near Kloof Nek, builds the ground floor basework in a rustic finish and clads the first floor and
 entrances in a sawn finish. The inaccessible upper floors are reportedly faced in “cream terracotta”,
-including the carved ornamentation [29, 30], but from street level, this has the appearance of a white
+including the carved ornamentation, but from street level, this has the appearance of a white
 sandstone. The granite, which can be inspected at street level, is similar to that previously seen at
 the Mandela-Rhodes Building, with the elongate laths (phenocrysts) of orthoclase being the most
 prominent feature. Interestingly, a former entrance to the bank has been clad with Paarl Grey
@@ -695,17 +672,17 @@ closed by the time this entrance was being blocked up. This is a useful spot to 
 the texture and mineralogy of the two local Cape granites.</string>
 
     <!-- loc_27 -->
-    <string name="title_activity_loc_27">loc_27</string>
-    <string name="loc_27_name">FIRST NATIONAL BANK</string>
-    <string name="loc_27_desc">This building was completed in 1907 under the supervision of architects Milne and Sladdin [29] and is
+    <string name="title_activity_loc_27">First National Bank</string>
+    <string name="loc_27_coords"> </string>
+    <string name="loc_27_desc">This building was completed in 1907 under the supervision of architects Milne and Sladdin and is
 26 years older than the building in Adderley Street with only the Paarl Grey medium-grained granite
 being present in both buildings. The St. George’s Mall building comprises a five storey, steel or
 concrete framed building with a prominent corner portico and three raised, inset, columned porticos
-in St. George’s Mall, on the corner of the building and in Shortmarket Street, respectively (Fig. 17). A
+in St. George’s Mall, on the corner of the building and in Shortmarket Street, respectively. A
 beige sandstone ashlar contrasts with red faggot brickwork on the facade. The corner portico, raised
 inset porticos, cornices and window surrounds are built of sandstone, whereas the basework on the
 ground floor, steps, a window surround in St. George’s Mall and cladded slabs at the entrance to the
-bank consist of Paarl Grey granite (Fig. 17).
+bank consist of Paarl Grey granite.
     \n\n
         The sandstone is very fine- to fine-grained, massive and contains subrounded to subangular quartz
 grains, silvery, flaky crystals of sericite and rare black, mafic minerals within a white clayey matrix.
@@ -713,15 +690,15 @@ Some of the slabs show weathering and flaking, particularly at the contact with 
 Cement mortar repair of some slabs has been carried out. The sandstone is most likely a Permian
 Karoo sandstone and was probably exploited from quarries in the vicinity of Sasolburg or
 Vereeniging, which were connected by railway to Cape Town during the time that the building was
-constructed, i.e. after 1892 [13]. The granite is similar to that previously seen, i.e. light grey, mediumgrained,
+constructed, i.e. after 1892. The granite is similar to that previously seen, i.e. light grey, mediumgrained,
 slightly porphyritic with phenocrysts of white to light grey feldspar, up to 30 mm long, and
 noticeable black flaky crystals of biotite within the groundmass.
         \n\n
         The building opposite First National Bank in St. George’s Mall, Market House, is rich in geology and is
-STOP 28 (Fig. 2). Before reaching Market House, the participants should be aware of a street
+location 28. Before reaching Market House, the participants should be aware of a street
 sculpture in the central intersection of St. George’s Mall and Shortmarket Street. It takes the form of
 a compass and clock, was sculptured by Fritha Langerman and Katherine Bull, is named “Come to
-Pass” and was unveiled on 30th January 2006 [43]. It is composed of two sets of six units (glass and
+Pass” and was unveiled on 30th January 2006. It is composed of two sets of six units (glass and
 bronze discs that echo each other formally), which intersect to form a cross and correspond to a
 further 24 glass units (cats eyes) encircling the cross. The cast bronze discs identify six distinct
 occupations that have been instrumental in the colonial evolution of the Cape cityscape (explorer,
@@ -730,48 +707,45 @@ the cross, composed of six stainless steel rings framing the glass composite por
 from the information gathered from women that were previously interviewed. Each stainless steel
 ring is engraved with a fictitious name and date composed from four of the twenty four women
 interviewed. The 24 women’s names and occupations are recorded separately on the 24 cats eyes
-encircling the cross [43].
+encircling the cross.
     </string>
 
     <!-- loc_28 -->
-    <string name="title_activity_loc_28">loc_28</string>
-    <string name="loc_28_name">MARKET HOUSE</string>
+    <string name="title_activity_loc_28">Market House</string>
+    <string name="loc_28_coords"> </string>
     <string name="loc_28_desc">Market House, which is a nine storey, steel or concrete framed building that was designed by W.H.
-Grant and completed around 1932, has one of the most prominent Art Deco facades in Cape Town
-[29, 36]. Three South African igneous rocks are present on the ground and first floors, but creamcoloured,
-precast facings dominate the building from the second floor upwards (Fig. 18) [29]. Here,
+Grant and completed around 1932, has one of the most prominent Art Deco facades in Cape Town. Three South African igneous rocks are present on the ground and first floors, but creamcoloured,
+precast facings dominate the building from the second floor upwards. Here,
 there is a frieze of stylized proteas and disas (Cape Town City Council, 1987) and bas-relief eagles are
-positioned above the entrances (Fig. 18) [29, 36].
+positioned above the entrances.
     \n\n
     The rocks occur as cladding, with the most abundant being a pink, hammer-dressed granite on the
-upper part of the ground floor and the first floor (Fig. 18). A black, fine-grained, polished gabbro,
+upper part of the ground floor and the first floor. A black, fine-grained, polished gabbro,
 which is strictly a fine-grained dolerite or basalt, is present on the lower part of the ground floor and
 an orange and red migmatitic to gneissic, polished granite with grey to dark grey and black
 convoluted bands, patches, stringers and streaks, occurs at the extreme southwestern end of the
-ground floor (Fig. 18). The pink granite is medium- to coarse-grained with pink feldspar crystals,
+ground floor. The pink granite is medium- to coarse-grained with pink feldspar crystals,
 probably orthoclase, and very light grey to white, lath-like, feldspar crystals, which are beigecoloured
 in places and show a red tinge. Black flaky crystals of biotite are present, as well as less
-conspicuous grey, glassy quartz crystals. The granite is from the former Transvaal, South Africa [29],
+conspicuous grey, glassy quartz crystals. The granite is from the former Transvaal, South Africa,
 and resembles one of the granites of the Precambrian Bushveld Complex from the area north of
-Pretoria [18]. It is approximately 2050 million years old. The black “gabbro” contains barely visible
+Pretoria. It is approximately 2050 million years old. The black “gabbro” contains barely visible
 grey to dark grey, lath-like crystals of plagioclase and black pyroxene crystals. It is similar to gabbros
-from the Bushveld Complex and may have been derived from the Bon Accord area, north of Pretoria
-[18]. The black colour of the rock is due to the presence of minute needles of magnetite in the
-plagioclase crystals [24, 39]. It has a similar age to the pink granite. The migmatitic to gneissic granite
+from the Bushveld Complex and may have been derived from the Bon Accord area, north of Pretoria. The black colour of the rock is due to the presence of minute needles of magnetite in the
+plagioclase crystals. It has a similar age to the pink granite. The migmatitic to gneissic granite
 is the Parys Granite, which was seen at the South African Mutual Life Assurance Society Building
-(STOP 8). It may have been exploited from the Municipal Quarry at Parys, Free State, given the 1930s
-age of the building [18]. The granite is fine- to very coarse-grained and contains pink to red feldspar
+(location 8). It may have been exploited from the Municipal Quarry at Parys, Free State, given the 1930s
+age of the building. The granite is fine- to very coarse-grained and contains pink to red feldspar
 crystals, which show microfractures with a red ferruginous infill, very light grey to grey, glassy quartz
 crystals, and black flaky crystals of biotite, which are more abundant in the darker convoluted bands,
 patches, stringers and streaks. The cross-cutting pseudotachylite veins, which are fairly common in
-this granite [34], were not observed.</string>
+this granite, were not observed.</string>
 
     <!-- loc_29 -->
-    <string name="title_activity_loc_29">loc_29</string>
-    <string name="loc_29_name">NUMBER 86 ST. GEORGE’S MALL</string>
-    <string name="loc_29_desc">This is a seven storey, steel or concrete framed building, which shows a Cape Revival Italianate style
-[29]. Attached giant order columns and baluster balconettes occur on the fifth and sixth floors and it
-was completed in 1925, but the name of the architect is not known [29]. Natural stones are confined
+    <string name="title_activity_loc_29">Number 86 St. George\'s Mall</string>
+    <string name="loc_29_coords"> </string>
+    <string name="loc_29_desc">This is a seven storey, steel or concrete framed building, which shows a Cape Revival Italianate style. Attached giant order columns and baluster balconettes occur on the fifth and sixth floors and it
+was completed in 1925, but the name of the architect is not known. Natural stones are confined
 to the ground floor, with the remainder of the building being plastered and painted beige. Locallyquarried,
 fine- to coarse-grained, quartzitic sandstone of the Table Mountain Group, in a rustic finish,
 forms the basework on the ground floor and is present in archways above the ground floor. Polished
@@ -779,15 +753,15 @@ cladding of Parys Granite similar to that just seen at Market House, occurs at p
 around the basal part of the entrance, including the steps. A black, fine-grained gabbro also similar in
 appearance to the gabbro at Market House, makes up the nose of the treads of three steps at the
 entrance to the building. It was most likely derived from the 2050 million year-old Bushveld Complex
-north of Pretoria [18].</string>
+north of Pretoria.</string>
 
     <!-- loc_30 -->
-    <string name="title_activity_loc_30">loc_30</string>
-    <string name="loc_30_name">WALDORF ARCADE</string>
+    <string name="title_activity_loc_30">Waldorf Arcade</string>
+    <string name="loc_30_coords"> </string>
     <string name="loc_30_desc">The Waldorf Arcade was
 completed in 1988, replacing
 both the old Waldorf and
-Morkels buildings [21, 29]. The
+Morkels buildings. The
 architects were Mallows, Louw,
 Hoffe and Orme, who received a
 project award in 1984 from the
@@ -795,7 +769,7 @@ magazine Architecture SA, in
 recognition of their ability to
 blend in this building with the
 surrounding buildings and street
-facades [21]. The Waldorf
+facades. The Waldorf
 Arcade is an eleven storey,
 concrete framed building that
 extends between St. George’s
@@ -809,38 +783,36 @@ ground, first and second floor
 facade and the arched entrance,
 and polished dark grey to black
 gabbro clads the columns and
-ground floor at pavement level
-(Fig. 19).
+ground floor at pavement level.
     \n\n
     The red granite is coarse-grained, slightly porphyritic with reddish-pink feldspar (orthoclase?)
 phenocrysts. This feldspar is also present in the groundmass and is microfractured with a red
 ferruginous infill. Some feldspars display a red tinge. Light grey to dark grey glassy quartz and
 abundant black mafic minerals, including flaky biotite, can be discerned. The granite is referred to as
-“Balmoral Red” in the Stone Trade and was quarried from Finland (M. Carroll, 2000, personal
-communication). This name dates from the late-19th century, when Scandinavian granites were first
+“Balmoral Red” in the Stone Trade and was quarried from Finland. This name dates from the late-19th century, when Scandinavian granites were first
 being quarried for building stone and were initially shipped in block to be cut and polished in the
-stoneyards of Aberdeen [32]. Under these conditions, names associated in any way with Royal
+stoneyards of Aberdeen. Under these conditions, names associated in any way with Royal
 Deeside were more prestigious than local Scandinavian names. The granite is situated in the root
 zone of the Caledonian (450 to 350 million years ago) fold belt of southern Finland, where
-deformation continued after the original intrusion of the granite [32]. This accounts for the
+deformation continued after the original intrusion of the granite. This accounts for the
 microfracturing in the feldspar, which is associated with tectonic deformation. The gabbro is from
 the 2050 million year-old Bushveld Complex and is termed “Rustenburg Grey”, being sourced from
-the area between Brits and Rustenburg [39]. We have already seen examples of this stone at the City
-Hall (STOP 7). The gabbro is coarse-grained and contains grey to light grey, plagioclase crystals, some
+the area between Brits and Rustenburg. We have already seen examples of this stone at the City
+Hall (location 7). The gabbro is coarse-grained and contains grey to light grey, plagioclase crystals, some
 of which show a dark brown alteration product. By definition, there is an absence of quartz, and the
-black-coloured crystals in the groundmass consist of pyroxene [39]. The remainder of the building
+black-coloured crystals in the groundmass consist of pyroxene. The remainder of the building
 above the second floor is clad with precast concrete panels with an exposed pebble finish.</string>
 
     <!-- loc_31 -->
-    <string name="title_activity_loc_31">loc_31</string>
-    <string name="loc_31_name">SOUTH AFRICAN RESERVE BANK</string>
+    <string name="title_activity_loc_31">South African Reserve Bank</string>
+    <string name="loc_31_coords"> </string>
     <string name="loc_31_desc">The high-rise office tower of the Reserve Bank, which dominates the skyline, was designed by
-architect H. van der Merwe and completed in 1976 [21, 29]. It shows extensive aluminium and glass
+architect H. van der Merwe and completed in 1976. It shows extensive aluminium and glass
 curtain walling with the corner facings clad in very light grey to white-coloured material. This
 material, which is obviously inaccessible, is apparently composed of granite from Spitzkoppe, some
 60 km west of Usakos in Namibia, is about 130 million years old and is known in the Stone Trade as
-“Namibian Pearl” [16] (M. Carroll, 2000, personal communication). It was only assembled in 1991,
-when the original ceramic tile cladding was replaced (J. Rennie, 2000, personal communication).
+“Namibian Pearl”. It was only assembled in 1991,
+when the original ceramic tile cladding was replaced.
     \n\n
         Two accessible natural stones are present around the podium of the office tower. Polished Paarl
 Grey granite clads the first, second and third floors of the podium, as well as the canopy face above
@@ -849,7 +821,7 @@ ground floor and the walls near the main entrance. The Paarl Grey granite is sim
 the previous buildings visited, i.e. it is light grey, medium-grained and slightly porphyritic with white
 and very light grey, lath-like, feldspar phenocrysts, up to 20 mm long. The dolerite is named
 “Zimbabwe Black” in the Stone Trade and comes from the Mutoko area of Zimbabwe, about 140 km
-northeast of Harare [16]. Stratigraphically, it belongs to the Mashonaland Dolerite Suite and is
+northeast of Harare. Stratigraphically, it belongs to the Mashonaland Dolerite Suite and is
 approximately 1835 million years old. Grey to dark grey rectangular-shaped plagioclase crystals,
 some showing a brown iridescent alteration product and a few displaying twinning, can be vaguely
 seen in the dolerite, which otherwise contains black pyroxene and rare, black, fine-grained cubic
@@ -857,18 +829,18 @@ magnetite crystals.
     </string>
 
     <!-- loc_32 -->
-    <string name="title_activity_loc_32">loc_32</string>
-    <string name="loc_32_name">ALLIANZ HOUSE (54 ST. GEORGE’S MALL)</string>
+    <string name="title_activity_loc_32">Allianz House (54 St. George’s Mall)</string>
+    <string name="loc_32_coords"> </string>
     <string name="loc_32_desc">This building was originally named Atlas House when it was constructed in 1938, which later became
-Boston House College [29] and finally Allianz House when the college moved in 2015. The nine
+Boston House College and finally Allianz House when the college moved in 2015. The nine
 storey, steel or concrete framed building was designed by the architectural firm of Hawke and
-McKinlay [29]. It has a bronze, crouching Atlas sculpture outside the third floor and an ornate,
+McKinlay. It has a bronze, crouching Atlas sculpture outside the third floor and an ornate,
 travertine urn in a recessed corner of the sixth floor. The creamy white travertine is the predominant
 rock type and clads the building from the third floor upwards. It is inaccessible and its origin is
 unknown. However, two accessible granites, which we have seen earlier, are present on the ground
 floor. The most extensive is a pink, hammer-dressed granite that clads the ground, first and second
 floors and forms the balconies and corner pedestal on the third floor. This granite, which clads part
-of Market House (STOP 28), a short distance back along the mall (Fig. 2), is from the Precambrian
+of Market House (location 28), a short distance back along the mall, is from the Precambrian
 Bushveld Complex in the region north of Pretoria. It is medium- to coarse-grained with pink, very
 light grey and white, lath-like, feldspar crystals that show a red tinge. Black flaky crystals of biotite
 are present, as well as less conspicuous grey, irregular-shaped, glassy quartz crystals. The second
@@ -876,23 +848,21 @@ granite is the ubiquitous Paarl Grey, which forms the basework of the ground flo
 sawn finish.</string>
 
     <!-- loc_33 -->
-    <string name="title_activity_loc_33">loc_33</string>
-    <string name="loc_33_name">WOOLWORTHS BUILDING</string>
+    <string name="title_activity_loc_33">Woolworths Building</string>
+    <string name="loc_33_coords"> </string>
     <string name="loc_33_desc">Two rock types are present in the form of polished cladding on the ground floor. The Woolworths
 Building occupies the block bordered by St. George’s Mall, Strand Street, Adderley Street and Castle
-Street (Fig. 2). It was completed in 1975 using the architects Fridjohn, Fulford and Callinicias and is a
-four storey, concrete framed building constructed by Murray and Roberts (Pty) Ltd. [22, 29].
+Street. It was completed in 1975 using the architects Fridjohn, Fulford and Callinicias and is a
+four storey, concrete framed building constructed by Murray and Roberts (Pty) Ltd.
     \n\n
     The more abundant rock type is
-pale pink granite (Fig. 20), which
+pale pink granite, which
 clads the ground floor supporting
 walls between extensive window
 panes. This granite originates from
 the Vigo region in Galicia, western
 Spain and is known as “Rosa
-Porrino” in the Stone Trade (M.
-Carroll, 2000, personal
-communication). It is coarsegrained,
+Porrino” in the Stone Trade. It is coarsegrained,
 slightly porphyritic with
 pink lath-like orthoclase
 phenocrysts containing biotite
@@ -912,18 +882,18 @@ present. This granite is Permian in
 age.
     \n\n
     A black, fine-grained, polished gabbro, which is strictly a fine-grained dolerite or basalt, clads the
-ground floor supporting walls beneath the granite at pavement level (Fig. 20). It is known as
-“Rustenburg Grey” in the Stone Trade (M. Carroll, 2000, personal communication) and resembles the
-fine-grained variety seen at Market House (STOP 30) rather than the normal coarse-grained variety
-seen at City Hall and Waldorf Arcade (STOPS 7 and 30). It is difficult to distinguish the grey
+ground floor supporting walls beneath the granite at pavement level. It is known as
+“Rustenburg Grey” in the Stone Trade and resembles the
+fine-grained variety seen at Market House (location 30) rather than the normal coarse-grained variety
+seen at City Hall and Waldorf Arcade (locations 7 and 30). It is difficult to distinguish the grey
 plagioclase crystals within the black-coloured, pyroxene-rich groundmass of the gabbro. The gabbro
 is from the 2050 million year-old Bushveld Complex and may have been derived from the Bon Accord
-area, north of Pretoria [18]. Precast concrete panels with an exposed aggregate finish are present
+area, north of Pretoria. Precast concrete panels with an exposed aggregate finish are present
 above the ground floor.</string>
 
     <!-- loc_34 -->
-    <string name="title_activity_loc_34">loc_34</string>
-    <string name="loc_34_name">FOUNTAIN IN ST. GEORGE’S MALL</string>
+    <string name="title_activity_loc_34">Fountain In St. George\'s Mall</string>
+    <string name="loc_34_coords"> </string>
     <string name="loc_34_desc">Three varieties of granite from the Cape Granite Suite are present. The familiar light grey to very light
 grey, coarse-grained, porphyritic granite, which shows its usual characteristics, i.e. white to very light
 grey orthoclase phenocrysts (some twinned), up to 100 mm long, grey glassy quartz, light grey to
@@ -936,42 +906,40 @@ porphyry, which we see for the first and only time, is present as smaller stone 
 sides of the canal walls and in some steps. The porphyry is dark grey and has a fine-grained
 groundmass that contains phenocrysts of grey, glassy quartz, black, flaky biotite and brown, greyish
 brown and light grey feldspar. It resembles the Saldanha Quartz Porphyry, which is a late-phase
-igneous event of the Cape Granite Suite [23]. This porphyry was quarried for dimension stone and
-stone aggregate in the vicinity of Saldanha [44], where it represents a shallow, magmatic intrusive
+igneous event of the Cape Granite Suite. This porphyry was quarried for dimension stone and
+stone aggregate in the vicinity of Saldanha, where it represents a shallow, magmatic intrusive
 phase coeval with a succession of volcanic ignimbrite flows situated some 6 km south of Saldanha on
-the Postberg Peninsula [45]. These ignimbrite flows yielded a U-Pb zircon age of 515.5 ± 3.1 Ma [45].
+the Postberg Peninsula. These ignimbrite flows yielded a U-Pb zircon age of 515.5 ± 3.1 Ma.
     \n\n
     The fountain was probably built around 1992 after the conversion of St George’s Street to a mall. At
-this time, all the local granite quarries had been closed [7], and the granites were obtained from
-recycled stone belonging to Cape Town City Council (B. Oberholzer, 2000, personal communication).</string>
+this time, all the local granite quarries had been closed, and the granites were obtained from
+recycled stone belonging to Cape Town City Council.</string>
 
     <!-- loc_35 -->
-    <string name="title_activity_loc_35">loc_35</string>
-    <string name="loc_35_name">NORTON ROSE HOUSE</string>
+    <string name="title_activity_loc_35">Norton Rose House</string>
+    <string name="loc_35_coords"> </string>
     <string name="loc_35_desc">
     Norton Rose House was completed in 1986 with Louis Karol being the architect. It is a three storey,
 concrete or steel framed building that occupies the southeastern corner of Thibault Square in front
-of Riebeek Street (Fig. 2). Geologically, two granites are present cladding the exterior columns of the
-ground floor in St. George’s Mall and cladding the columns that support a canopy in Thibault Square.
-(Fig. 19).
+of Riebeek Street. Geologically, two granites are present cladding the exterior columns of the
+ground floor in St. George’s Mall and cladding the columns that support a canopy in Thibault Square..
         \n\n
 A red coarse-grained granite clads the top
 and base of the columns, whilst a pale
 pink granite clads the centre of the
-columns (Fig. 21). The red granite is
+columns. The red granite is
 referred to as “Balmoral Red” in the Stone
 Trade and we have already inspected this
-granite outside the Waldorf Arcade (STOP
+granite outside the Waldorf Arcade (location
 30). It was quarried from the root zone of
 the Caledonian (450 to 350 million years
 ago) fold belt of southern Finland, where
 deformation continued after the original
-intrusion of the granite [32]. We have also
+intrusion of the granite. We have also
 seen the pale pink granite at the
-Woolworths Building (STOP 33), which is
+Woolworths Building (location 33), which is
 referred to as “Rosa Porrino” in the Stone
-Trade (M. Carroll, 2000, personal
-communication). This granite originates
+Trade. This granite originates
 from the Vigo region in Galicia, western
 Spain and is Permian in age. The
 remainder of the building contains
@@ -979,24 +947,24 @@ precast concrete slabs.
     </string>
 
     <!-- loc_36 -->
-    <string name="title_activity_loc_36">loc_36</string>
-    <string name="loc_36_name">PIER PLACE</string>
+    <string name="title_activity_loc_36">Pier Place</string>
+    <string name="loc_36_coords"> </string>
     <string name="loc_36_desc">Pier Place is a fourteen storey,
 concrete or steel framed structure
 that was designed by Louis Karol
 Architects and completed in 1991.
 It is clad with precast concrete
 panels containing an exposed
-aggregate finish (Fig. 22).
+aggregate finish.
 However, the columns and pillars
 at ground floor level are clad with
 polished, pinkish-red granite and
 layers of polished, dark grey to
-black gabbro (Fig. 22). The pinkishred
+black gabbro. The pinkishred
 granite is medium- to coarsegrained
 and porphyritic with
 phenocrysts of lath-like, pinkishred
-microcline [16]. The
+microcline. The
 groundmass minerals are less
 conspicuous and consist of pink,
 light grey and very light grey
@@ -1005,32 +973,49 @@ in places, grey to light grey, glassy
 quartz and sparse black, flaky
 biotite. The granite is from the
 Salem Granite Suite in the vicinity
-of Karibib in Namibia [16] and is
+of Karibib in Namibia and is
 known as “Karibib Red” in the
 Stone Trade, being similar in age to
 the Cape Granite Suite (~ 550
 million years old). The gabbro is a
 variant of Rustenburg Grey and is
 similar to that seen at the Waldorf
-Arcade (STOP 30). It is coarsegrained
+Arcade (location 30). It is coarsegrained
 and some of the grey to
 light grey, rectangular-shaped
 crystals of plagioclase are twinned
 or show a dark brown alteration
 product. The black minerals are
-mostly pyroxene [39].</string>
-
-
+mostly pyroxene.</string>
 
 
     <!-- ROCK VALUES -->
-    <string name="rock_locs_label">Locations that this rock is found at:</string>
+    <string name="rock_locs_label">Locations that this stone is found at:</string>
 
-    <!-- rock_1 -->
-    <string name="title_activity_rock_1">rock_1</string>
-    <string name="rock_1_name">Rock-Fact Rock</string>
-    <string name="rock_1_desc">That\'s a rock fact!</string>
-    <!-- Locations that link ?-->
-    <!-- <string name="title_activity_loc_2">loc_2</string> -->
+    <!-- rock_1 34, 20, 6, 1-->
+    <string name="title_activity_rock_1">Orthoclase Phenocrysts</string>
+
+    <!-- Mentioned at location 1, 6, 15, 18, 20, 26, 28, 30, 33, 34-->
+    <string name="title_activity_rock_2">Quartzitic Sandstone</string>
+
+    <!-- Mentioned at location 2,3, 10, 14, 17, 29 [10 & 14 being Malmesbury - 3 unknown/other-->
+    <string name="title_activity_rock_3">Quartzitic Slate</string>
+
+    <!-- Mentioned at 1,3,6, 7, 15, 25, 26, 34 -->
+    <string name="title_activity_rock_4">Porphyritic Granite</string>
+
+    <!-- Mentioned at 1, 4, 6, 7,9, 11, 18, 20, 21, 33, 34 -->
+    <string name="title_activity_rock_5">Xenoliths</string>
+
+    <!-- Mentioned at 1, 9 -->
+    <string name="title_activity_rock_6">“Paarl Grey” granite</string>
+
+    <!-- Mentioned at 19 -->
+    <string name="title_activity_rock_7">Permian
+Karoo sandstone</string>
+
+    <!-- Mentioned at 1 -->
+    <string name="title_activity_rock_8">“Golden Dawn” Sandstone</string>
+
 
 </resources>

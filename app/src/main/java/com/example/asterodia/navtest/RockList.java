@@ -4,6 +4,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ExpandableListView;
 import java.util.ArrayList;
@@ -33,31 +35,6 @@ public class RockList extends AppCompatActivity {
                 finish();
             }
         });
-        //Variables
-/*
-        RockXMLReader reader = new RockXMLReader(this);
-
-        mExpandableList = (ExpandableListView) findViewById(R.id.rocksList);
-
-        ArrayList<RockParent> arrayParents = new ArrayList<RockParent>();
-        ArrayList<Rock> rocks = reader.getRocks();
-        ArrayList<String> rockNames = reader.getRockNames();
-
-        //here we set the parents and the children
-        for (int i = 0; i < rockNames.size(); i++) {
-            //for each "i" create a new Parent object to set the title and the children
-            RockParent parent = new RockParent();
-            parent.setTitle(rockNames.get(i));
-
-            parent.setChild(rocks.get(i));
-
-            //in this array we add the Parent object. We will use the arrayParents at the setAdapter
-            arrayParents.add(parent);
-        }
-
-        //sets the adapter that provides data to the list.
-        mExpandableList.setAdapter(new RockAdapter(RockList.this, arrayParents));
-        */
     }
 
     public void onHomeButtonClick (View v) {
@@ -70,5 +47,41 @@ public class RockList extends AppCompatActivity {
     {
         Intent intent = new Intent(this, rock_1.class);
         startActivity(intent);
+    }
+    public void onClick_rock_2 (View v)
+    {
+        Intent intent = new Intent(this, rock_2.class);
+        startActivity(intent);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(final MenuItem item) {
+        Intent intent = null;
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                intent = new Intent(this, MainActivity.class);
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                startActivity(intent);
+                return true;
+            case R.id.locations:
+                intent = new Intent(this, LocationList.class);
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                startActivity(intent);
+                return true;
+            case R.id.rocks:
+                intent = new Intent(this, RockList.class);
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                startActivity(intent);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 }
