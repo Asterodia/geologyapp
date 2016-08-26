@@ -139,56 +139,7 @@
                 android:layout_below="@id/rock_4"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="15px"
-                android:layout_marginBottom="15px"
-                android:layout_below="@id/rock_4"
-                android:id="@+id/rock_5"
-                android:text="@string/title_activity_rock_5"
-                android:textColor="@color/colorPrimary"
-                android:clickable="true"
-                android:onClick="onClick_rock_5"
-                />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/rock_5"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="15px"
-                android:layout_marginBottom="15px"
-                android:layout_below="@id/rock_5"
-                android:id="@+id/rock_6"
-                android:text="@string/title_activity_rock_6"
-                android:textColor="@color/colorPrimary"
-                android:clickable="true"
-                android:onClick="onClick_rock_6" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/rock_6"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="15px"
-                android:layout_marginBottom="15px"
-                android:layout_below="@id/rock_6"
-                android:id="@+id/rock_8"
-                android:text="@string/title_activity_rock_8"
-                android:textColor="@color/colorPrimary"
-                android:clickable="true"
-                android:onClick="onClick_rock_8"
-                />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/rock_8"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
+
 
         </RelativeLayout>
 

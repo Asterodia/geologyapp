@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_loc_test.xml",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\menu\\menu_loc_test.xml"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\menu\\menu_main.xml"
     }

@@ -41,6 +41,27 @@ public class loc_34 extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void onClick_rock_2 (View v)
+    {
+        Intent intent = new Intent(this, rock_2.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+    }
+
+    public void onClick_rock_4 (View v)
+    {
+        Intent intent = new Intent(this, rock_4.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+    }
+
+    public void onClick_rock_5 (View v)
+    {
+        Intent intent = new Intent(this, rock_5.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.

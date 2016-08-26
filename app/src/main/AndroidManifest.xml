@@ -212,6 +212,98 @@
         <activity
             android:name=".loc_36"
             android:label="@string/title_activity_loc_36"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".about"
+            android:label="@string/title_activity_about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_3"
+            android:label="@string/title_activity_rock_3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_4"
+            android:label="@string/title_activity_rock_4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_5"
+            android:label="@string/title_activity_rock_5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_24"
+            android:label="@string/title_activity_rock_24"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_23"
+            android:label="@string/title_activity_rock_23"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_6"
+            android:label="@string/title_activity_rock_6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_7"
+            android:label="@string/title_activity_rock_7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_8"
+            android:label="@string/title_activity_rock_8"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_9"
+            android:label="@string/title_activity_rock_9"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_10"
+            android:label="@string/title_activity_rock_10"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_11"
+            android:label="@string/title_activity_rock_11"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_12"
+            android:label="@string/title_activity_rock_12"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_13"
+            android:label="@string/title_activity_rock_13"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_14"
+            android:label="@string/title_activity_rock_14"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_15"
+            android:label="@string/title_activity_rock_15"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_16"
+            android:label="@string/title_activity_rock_16"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_17"
+            android:label="@string/title_activity_rock_17"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_18"
+            android:label="@string/title_activity_rock_18"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_19"
+            android:label="@string/title_activity_rock_19"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_20"
+            android:label="@string/title_activity_rock_20"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_21"
+            android:label="@string/title_activity_rock_21"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rock_22"
+            android:label="@string/title_activity_rock_22"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

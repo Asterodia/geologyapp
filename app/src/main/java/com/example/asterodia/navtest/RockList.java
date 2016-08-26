@@ -53,6 +53,23 @@ public class RockList extends AppCompatActivity {
         Intent intent = new Intent(this, rock_2.class);
         startActivity(intent);
     }
+    public void onClick_rock_3 (View v)
+    {
+        Intent intent = new Intent(this, rock_3.class);
+        startActivity(intent);
+    }
+
+    public void onClick_rock_4 (View v)
+    {
+        Intent intent = new Intent(this, rock_4.class);
+        startActivity(intent);
+    }
+
+    public void onClick_rock_5 (View v)
+    {
+        Intent intent = new Intent(this, rock_5.class);
+        startActivity(intent);
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

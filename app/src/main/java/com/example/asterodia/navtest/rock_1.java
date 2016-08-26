@@ -41,6 +41,27 @@ public class rock_1 extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void onClick_loc_6 (View v)
+    {
+        Intent intent = new Intent(this, loc_6.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+    }
+
+    public void onClick_loc_20 (View v)
+    {
+        Intent intent = new Intent(this, loc_20.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+    }
+
+    public void onClick_loc_34 (View v)
+    {
+        Intent intent = new Intent(this, loc_34.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.

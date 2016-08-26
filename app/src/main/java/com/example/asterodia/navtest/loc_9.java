@@ -34,12 +34,13 @@ public class loc_9 extends AppCompatActivity {
         });
     }
 
-    public void onClick_rock_1 (View v)
+    public void onClick_rock_5 (View v)
     {
-        Intent intent = new Intent(this, rock_1.class);
+        Intent intent = new Intent(this, rock_5.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         startActivity(intent);
     }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

@@ -225,6 +225,98 @@
             android:name="com.example.asterodia.navtest.loc_36"
             android:label="@string/title_activity_loc_36"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.about"
+            android:label="@string/title_activity_about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_3"
+            android:label="@string/title_activity_rock_3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_4"
+            android:label="@string/title_activity_rock_4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_5"
+            android:label="@string/title_activity_rock_5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_24"
+            android:label="@string/title_activity_rock_24"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_23"
+            android:label="@string/title_activity_rock_23"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_6"
+            android:label="@string/title_activity_rock_6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_7"
+            android:label="@string/title_activity_rock_7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_8"
+            android:label="@string/title_activity_rock_8"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_9"
+            android:label="@string/title_activity_rock_9"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_10"
+            android:label="@string/title_activity_rock_10"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_11"
+            android:label="@string/title_activity_rock_11"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_12"
+            android:label="@string/title_activity_rock_12"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_13"
+            android:label="@string/title_activity_rock_13"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_14"
+            android:label="@string/title_activity_rock_14"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_15"
+            android:label="@string/title_activity_rock_15"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_16"
+            android:label="@string/title_activity_rock_16"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_17"
+            android:label="@string/title_activity_rock_17"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_18"
+            android:label="@string/title_activity_rock_18"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_19"
+            android:label="@string/title_activity_rock_19"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_20"
+            android:label="@string/title_activity_rock_20"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_21"
+            android:label="@string/title_activity_rock_21"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asterodia.navtest.rock_22"
+            android:label="@string/title_activity_rock_22"
+            android:theme="@style/AppTheme.NoActionBar" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

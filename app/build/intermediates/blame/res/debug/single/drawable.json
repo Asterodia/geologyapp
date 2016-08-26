@@ -88,6 +88,10 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cape_granite_suite_icon.png",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\cape_granite_suite_icon.png"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
@@ -156,8 +160,16 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_4.jpg"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_mountain_icon.png",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\table_mountain_icon.png"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scree_icon.png",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\scree_icon.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
@@ -244,6 +256,10 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malmesbury_icon.png",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\malmesbury_icon.png"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_32.jpg",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_32.jpg"
     },
@@ -280,12 +296,12 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_29.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_12.jpg",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_12.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_20.jpg",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_20.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_12.jpg",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_12.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_9.jpg",

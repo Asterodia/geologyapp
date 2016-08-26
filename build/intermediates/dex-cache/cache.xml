@@ -68,7 +68,7 @@
         jar="D:\AndroidStudioProjects\NavTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="90a2ed3d09a9193de830e916592c6acb09206cfe">
+        sha1="8f1fb76f430e628dfa672a0bcfb8c1c4b2f56fa4">
         <dex dex="D:\AndroidStudioProjects\NavTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_46591dac6d22385b99498a77438b1f52aa22aebf\classes.dex" />
     </item>
     <item
@@ -208,7 +208,7 @@
         jar="D:\AndroidStudioProjects\NavTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="e1574748e931edc09c481307aa90a3b0839bc900">
+        sha1="7c9c6630ed123520264d48298bcf1816cee2c43c">
         <dex dex="D:\AndroidStudioProjects\NavTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_492528fd7f7e85c727406b6f96e383e1116d9b53\classes.dex" />
     </item>
     <item

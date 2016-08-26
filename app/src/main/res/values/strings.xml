@@ -153,7 +153,7 @@ imported from Holland and the red bricks which form the parapet at the top of th
 
     <!-- loc_6 -->
     <string name="title_activity_loc_6">Anglo-Boer War Memorial</string>
-    <string name="loc_6_coords"> </string>
+    <string name="loc_6_coords">-33.925585, 18.424930 \n\n Darling St</string>
     <string name="loc_6_desc">This memorial consists of a marble statue of a soldier and female figure placed on an inscribed
 marble pedestal of unknown origin. It was sculptured by Sir William Goscombe John in about 1904, and rests on a plinth and stepped podium constructed of very light grey, coarse-grained,
 porphyritic granite of the Cape Granite Suite that was probably exploited from Higgo Quarry near
@@ -163,9 +163,9 @@ muscovite, and dark grey speckled xenoliths, some schistose, also stand out.</st
 
     <!-- loc_7 -->
     <string name="title_activity_loc_7">City Hall</string>
-    <string name="loc_7_coords"> </string>
-    <string name="loc_7_desc">The City Hall, which occupies the site bordered by Darling, Corporation, Longmarket and Parade
-Streets, is best viewed from Darling Street, where it faces the sun for most of the day. It was
+    <string name="loc_7_coords"> -33.925247, 18.423880\n\nOccupies the site bordered by Darling, Corporation, Longmarket and Parade
+Streets</string>
+    <string name="loc_7_desc">The City Hall is best viewed from Darling Street, where it faces the sun for most of the day. It was
 completed in 1905 with the architects being Reid and Green, who won a competition for the design
 of the building out of a total of seventeen entries. It took five years to complete and shows a
 French Renaissance influence, as well as British colonial influences and resembles Leeds
@@ -237,7 +237,7 @@ between Brits and Rustenburg, South Africa and is approximately 2 050 million ye
 
     <!-- loc_8 -->
     <string name="title_activity_loc_8">South African Mutual Life Assurance Society</string>
-    <string name="loc_8_coords"> </string>
+    <string name="loc_8_coords">-33.924284, 18.422315 \n\nCorner of Darling St and Parliament St </string>
     <string name="loc_8_desc">The most striking feature of the South African Mutual Life Assurance Society building is the extensive
 sculpturing on polished granite cladding around the exterior of the building, making it one of
 the most externally ornamented buildings in South Africa. A continuous bas-relief frieze
@@ -263,7 +263,7 @@ million years ago.
 
     <!-- loc_9 UNEDITED -->
     <string name="title_activity_loc_9">Damelin Building</string>
-    <string name="loc_9_coords"> </string>
+    <string name="loc_9_coords">-33.924018, 18.422051 \n\n 8 Darling St </string>
     <string name="loc_9_desc">This building lies adjacent to the South African Mutual Life Assurance Society building on the
 opposite side of Parliament Street. It was previously named the “Permanent Buildings”. This
 seven storey building with an inset columned portico on the fifth floor was designed by the architect
@@ -280,7 +280,7 @@ Street.</string>
 
     <!-- loc_10 -->
     <string name="title_activity_loc_10">First National Bank</string>
-    <string name="loc_10_coords"> </string>
+    <string name="loc_10_coords">-33.923443, 18.421289\n\n Corner Shortmarket and Adderley St </string>
     <string name="loc_10_desc">This six storey building was completed in 1933 and is the last major work of Sir Herbert Baker in
 South Africa although A.T. Scott also contributed to the design. The building has raised,
 inset, columned porticos with four simplified Corinthian columns between the third and fifth floors
@@ -305,7 +305,7 @@ plinth of the building, as well as steps and abutments around the entrance.</str
 
     <!-- loc_11 -->
     <string name="title_activity_loc_11">Pearne Building</string>
-    <string name="loc_11_coords"> </string>
+    <string name="loc_11_coords"> -33.924144, 18.421236 \n\n 23 Adderley Street</string>
     <string name="loc_11_desc">This building was built in 1903 and was designed by architects MacGillivray and Grant. It has four
 storeys with a narrow Dutch gable and is one of the few remaining examples of a type of building
 based on a Dutch town-house still surviving in Cape Town. The name of the original owners, C.H.
@@ -342,7 +342,7 @@ fine-grained sandstone.</string>
 
     <!-- loc_12 -->
     <string name="title_activity_loc_12">Constitution House</string>
-    <string name="loc_12_coords"> </string>
+    <string name="loc_12_coords">-33.924232, 18.420570 \n\n 124 Adderley St </string>
     <string name="loc_12_desc">This was formerly named Regis House and was constructed around 1955. It is a fourteen storey,
 concrete framed building that is mainly clad with precast concrete panels with an exposed
 aggregate finish. However, polished cladding and floor tiles of white, cryptocrystalline marble are
@@ -363,7 +363,7 @@ overhanging cornice at the top of the third floor. The familiar light grey, medi
 
     <!-- loc_14 -->
     <string name="title_activity_loc_14">ABSA Building</string>
-    <string name="loc_14_coords"> </string>
+    <string name="loc_14_coords">-33.924581, 18.420235\n\n134 Adderley St</string>
     <string name="loc_14_desc">The ABSA Building is a prominent thirteen storey,
 concrete framed block that faces down Bureau
 Street on the opposite side of Adderley Street. The date of construction is unknown, but
@@ -416,7 +416,8 @@ of the Smuts Statue (location 16).</string>
 
     <!-- loc_16 -->
     <string name="title_activity_loc_16">Smuts Statue</string>
-    <string name="loc_16_coords"> </string>
+    <string name="loc_16_coords">
+-33.925067, 18.420124 \n\n Corner of Adderley St and Government Ave</string>
     <string name="loc_16_desc">The bronze statue of J.C. Smuts is twice life size and comprises a massive seated figure. It was
 erected in 1973 and is the last major work of the sculptor Ivan Mitford-Barberton. The granite was
 probably taken from Clift’s Quarry, west of Paarl and is light grey, medium-grained, slightly
@@ -424,7 +425,7 @@ porphyritic and contains very light grey to white, microperthite phenocrysts up 
 
     <!-- loc_17 -->
     <string name="title_activity_loc_17">St. George\'s Cathedral</string>
-    <string name="loc_17_coords"> </string>
+    <string name="loc_17_coords"> -33.924776, 18.419294 \n\n 5 Wale St</string>
     <string name="loc_17_desc">The first cathedral, which began as the Church of St George in 1830, was designed by John Skirrow
 and was based on the temple-fronted and towered church of St Pancras in London that had been
 completed in 1822. With the arrival of Bishop Robert Gray in 1848, St George’s became a
@@ -460,7 +461,7 @@ Complex between about 2060 and 2050 million years ago.</string>
 
     <!-- loc_18 -->
     <string name="title_activity_loc_18">Mandela-Rhodes Building</string>
-    <string name="loc_18_coords"> </string>
+    <string name="loc_18_coords"> -33.924283, 18.419383 \n\n 150 St. George\'s Mall</string>
     <string name="loc_18_desc">The Mandela-Rhodes Building, originally named the Rhodes Building, was designed by Herbert
 Baker and Francis Masey and was completed in 1902, some 6 months after Cecil Rhodes’s death.
 It is a Cape Revival style building, steel or concrete framed, with five storeys and an attic. Dutch-
@@ -477,7 +478,7 @@ are present.</string>
 
     <!-- loc_19 -->
     <string name="title_activity_loc_19">Mandela-Rhodes Place</string>
-    <string name="loc_19_coords"> </string>
+    <string name="loc_19_coords">-33.924052, 18.419103 \n\n Wale St </string>
     <string name="loc_19_desc">This was originally Syfrets Bank, later becoming Nedcor Investment Bank and finally Mandela-Rhodes
 Place. The building is a steel or concrete framed building with six storeys and two attic levels. It has a
 symmetrical facade and was designed by Franklin Kendall in the Arts and Crafts tradition, being
@@ -495,7 +496,7 @@ Granites can be seen where this building is juxtaposed against the Mandela-Rhode
 
     <!-- loc_20 -->
     <string name="title_activity_loc_20">Bishop Gray Monument</string>
-    <string name="loc_20_coords"> </string>
+    <string name="loc_20_coords"> -33.924296, 18.419567 \n\n 119 St. George\'s Mall</string>
     <string name="loc_20_desc">The monument was originally erected in Wale Street in 1876 in front of the old cathedral before
 being re-positioned in the Cathedral grounds near Queen Victoria Street and finally moved to its
 present site in 1992 when St. George’s Street was converted into a mall. Robert Gray was the first
@@ -588,7 +589,7 @@ between Mazista and Swartruggens in the North West Province.
 
     <!-- loc_21 -->
     <string name="title_activity_loc_21">Taj Hotel</string>
-    <string name="loc_21_coords"> </string>
+    <string name="loc_21_coords">-33.924351, 18.419939 \n\n 1 Wale St </string>
     <string name="loc_21_desc">This building was originally the Reserve Bank, which later became the Board of Executors Building
 and finally, in 2010, was converted into the Taj Hotel. The architectural style is Cape Italianate and it
 was drawn up by the architect James Morris, who won an award for its design. The building
@@ -617,7 +618,7 @@ floors, and a prominent overhanging cornice at the top of the third floor.</stri
 
     <!-- loc_23 -->
     <string name="title_activity_loc_23">Equity House</string>
-    <string name="loc_23_coords"> </string>
+    <string name="loc_23_coords">-33.924105, 18.420030 \n\n </string>
     <string name="loc_23_desc">Equity House was previously named Traduna House, and shows Art Nouveau overtones in finely
 worked granite. It was designed by the architects, MacGillivray and Grant, and is a six storey,
 steel or concrete framed structure that was built between 1906 and 1907. The locally-produced
@@ -632,7 +633,7 @@ surface.</string>
 
     <!-- loc_24 -->
     <string name="title_activity_loc_24">118 and 116 St. George\'s Mall</string>
-    <string name="loc_24_coords"> </string>
+    <string name="loc_24_coords">-33.923250, 18.420467 \n\n </string>
     <string name="loc_24_desc">The United Building at 118 St. George’s Mall is a ten storey, concrete or steel framed structure that
 was probably completed in 1938. It has a similar layout to that of Equity House and the Taj
 Hotel, i.e. a complete Paarl Grey granite ashlar facade. However, decorative artwork and
@@ -643,7 +644,7 @@ concrete or steel framed building is plastered and it was constructed in approxi
 
     <!-- loc_25 -->
     <string name="title_activity_loc_25">Protea Assurance Building</string>
-    <string name="loc_25_coords"> </string>
+    <string name="loc_25_coords">-33.923250, 18.420467 \n\n Longmarket Street, Corner St Georges Mall, </string>
     <string name="loc_25_desc">This nine storey, concrete framed building was completed in 1930 using the design of the architects,
 Jones and Adams, and was renovated in 1965, which included an arcade linking through to
 Greenmarket Square. The façade on St. George’s Mall combines Art Deco and classical features
@@ -654,8 +655,8 @@ medium-grained, slightly porphyritic granite has a similar texture and mineralog
 several buildings along St. George’s Mall.</string>
 
     <!-- loc_26 -->
-    <string name="title_activity_loc_26">Nedbank, 85 St. George\'s Mall</string>
-    <string name="loc_26_coords"> </string>
+    <string name="title_activity_loc_26">Nedbank </string>
+    <string name="loc_26_coords">-33.923419, 18.420758 \n\n 85 St. George\'s Mall </string>
     <string name="loc_26_desc">This building was completed in 1907 and was designed by architects W. Black, H. Black and G. Fagg,
 who were placed first and second in submissions for a competition staged for the project by the New
 York Mutual Insurance Company. The seven storey, steel framed building is highly decorated
@@ -673,7 +674,7 @@ the texture and mineralogy of the two local Cape granites.</string>
 
     <!-- loc_27 -->
     <string name="title_activity_loc_27">First National Bank</string>
-    <string name="loc_27_coords"> </string>
+    <string name="loc_27_coords">-33.923234, 18.421036 \n\n 81 St. George\'s Mall </string>
     <string name="loc_27_desc">This building was completed in 1907 under the supervision of architects Milne and Sladdin and is
 26 years older than the building in Adderley Street with only the Paarl Grey medium-grained granite
 being present in both buildings. The St. George’s Mall building comprises a five storey, steel or
@@ -712,7 +713,7 @@ encircling the cross.
 
     <!-- loc_28 -->
     <string name="title_activity_loc_28">Market House</string>
-    <string name="loc_28_coords"> </string>
+    <string name="loc_28_coords">-33.922972, 18.420772 \n\n </string>
     <string name="loc_28_desc">Market House, which is a nine storey, steel or concrete framed building that was designed by W.H.
 Grant and completed around 1932, has one of the most prominent Art Deco facades in Cape Town. Three South African igneous rocks are present on the ground and first floors, but creamcoloured,
 precast facings dominate the building from the second floor upwards. Here,
@@ -757,7 +758,7 @@ north of Pretoria.</string>
 
     <!-- loc_30 -->
     <string name="title_activity_loc_30">Waldorf Arcade</string>
-    <string name="loc_30_coords"> </string>
+    <string name="loc_30_coords">-33.922344, 18.420882 \n\n Shortmarket St </string>
     <string name="loc_30_desc">The Waldorf Arcade was
 completed in 1988, replacing
 both the old Waldorf and
@@ -805,7 +806,7 @@ above the second floor is clad with precast concrete panels with an exposed pebb
 
     <!-- loc_31 -->
     <string name="title_activity_loc_31">South African Reserve Bank</string>
-    <string name="loc_31_coords"> </string>
+    <string name="loc_31_coords">-33.921958, 18.421177 \n\n 25 Burg St and Hout st </string>
     <string name="loc_31_desc">The high-rise office tower of the Reserve Bank, which dominates the skyline, was designed by
 architect H. van der Merwe and completed in 1976. It shows extensive aluminium and glass
 curtain walling with the corner facings clad in very light grey to white-coloured material. This
@@ -830,7 +831,7 @@ magnetite crystals.
 
     <!-- loc_32 -->
     <string name="title_activity_loc_32">Allianz House (54 St. George’s Mall)</string>
-    <string name="loc_32_coords"> </string>
+    <string name="loc_32_coords">-33.922021, 18.421706 \n\n 54 St. George’s Mall </string>
     <string name="loc_32_desc">This building was originally named Atlas House when it was constructed in 1938, which later became
 Boston House College and finally Allianz House when the college moved in 2015. The nine
 storey, steel or concrete framed building was designed by the architectural firm of Hawke and
@@ -849,7 +850,8 @@ sawn finish.</string>
 
     <!-- loc_33 -->
     <string name="title_activity_loc_33">Woolworths Building</string>
-    <string name="loc_33_coords"> </string>
+    <string name="loc_33_coords">
+-33.922027, 18.422527 \n\n 31 St Georges Mall </string>
     <string name="loc_33_desc">Two rock types are present in the form of polished cladding on the ground floor. The Woolworths
 Building occupies the block bordered by St. George’s Mall, Strand Street, Adderley Street and Castle
 Street. It was completed in 1975 using the architects Fridjohn, Fulford and Callinicias and is a
@@ -893,7 +895,7 @@ above the ground floor.</string>
 
     <!-- loc_34 -->
     <string name="title_activity_loc_34">Fountain In St. George\'s Mall</string>
-    <string name="loc_34_coords"> </string>
+    <string name="loc_34_coords">-33.922004, 18.422027 </string>
     <string name="loc_34_desc">Three varieties of granite from the Cape Granite Suite are present. The familiar light grey to very light
 grey, coarse-grained, porphyritic granite, which shows its usual characteristics, i.e. white to very light
 grey orthoclase phenocrysts (some twinned), up to 100 mm long, grey glassy quartz, light grey to
@@ -917,7 +919,9 @@ recycled stone belonging to Cape Town City Council.</string>
 
     <!-- loc_35 -->
     <string name="title_activity_loc_35">Norton Rose House</string>
-    <string name="loc_35_coords"> </string>
+    <string name="loc_35_coords">-33.919858, 18.423473 \n\n Southeastern corner of Thibault Square in front
+of Riebeek Street
+ </string>
     <string name="loc_35_desc">
     Norton Rose House was completed in 1986 with Louis Karol being the architect. It is a three storey,
 concrete or steel framed building that occupies the southeastern corner of Thibault Square in front
@@ -948,7 +952,7 @@ precast concrete slabs.
 
     <!-- loc_36 -->
     <string name="title_activity_loc_36">Pier Place</string>
-    <string name="loc_36_coords"> </string>
+    <string name="loc_36_coords"> -33.917820, 18.425751 </string>
     <string name="loc_36_desc">Pier Place is a fourteen storey,
 concrete or steel framed structure
 that was designed by Louis Karol
@@ -960,10 +964,10 @@ However, the columns and pillars
 at ground floor level are clad with
 polished, pinkish-red granite and
 layers of polished, dark grey to
-black gabbro. The pinkishred
+black gabbro. The pinkish-red
 granite is medium- to coarsegrained
 and porphyritic with
-phenocrysts of lath-like, pinkishred
+phenocrysts of lath-like, pinkish-red
 microcline. The
 groundmass minerals are less
 conspicuous and consist of pink,
@@ -992,30 +996,135 @@ mostly pyroxene.</string>
     <!-- ROCK VALUES -->
     <string name="rock_locs_label">Locations that this stone is found at:</string>
 
-    <!-- rock_1 34, 20, 6, 1-->
-    <string name="title_activity_rock_1">Orthoclase Phenocrysts</string>
+    <!-- 1, 2, 3, 4, 9, 10, 13, 15, 19, 21, 22, 23,24,25, 26, 27, 31, 32 -->
+    <string name="title_activity_rock_1">Paarl Grey granite</string>
 
     <!-- Mentioned at location 1, 6, 15, 18, 20, 26, 28, 30, 33, 34-->
     <string name="title_activity_rock_2">Quartzitic Sandstone</string>
 
-    <!-- Mentioned at location 2,3, 10, 14, 17, 29 [10 & 14 being Malmesbury - 3 unknown/other-->
-    <string name="title_activity_rock_3">Quartzitic Slate</string>
+    <!-- 5, 17, 20 [malmesbury] & other -->
+    <string name="title_activity_rock_3">Slate</string>
 
-    <!-- Mentioned at 1,3,6, 7, 15, 25, 26, 34 -->
-    <string name="title_activity_rock_4">Porphyritic Granite</string>
+    <!-- 1, 3, 6, 7, 11, 15, 16, 18 [cape], 19, 20, 26, 34,  -->
+    <string name="title_activity_rock_4">Porphyritic granite of the Cape Granite Suite</string>
 
-    <!-- Mentioned at 1, 4, 6, 7,9, 11, 18, 20, 21, 33, 34 -->
-    <string name="title_activity_rock_5">Xenoliths</string>
+    <!-- 7, 28, 30, 33, 36 -->
+    <string name="title_activity_rock_5">Rustenburg Grey Black Gabbro</string>
 
-    <!-- Mentioned at 1, 9 -->
-    <string name="title_activity_rock_6">“Paarl Grey” granite</string>
+    <!-- 8, 28 -->
+    <string name="title_activity_rock_6">Parys granite</string>
 
-    <!-- Mentioned at 19 -->
-    <string name="title_activity_rock_7">Permian
-Karoo sandstone</string>
+    <!-- Mentioned at 27, 19 -->
+    <string name="title_activity_rock_7">Permian Karoo Sandstone</string>
 
     <!-- Mentioned at 1 -->
-    <string name="title_activity_rock_8">“Golden Dawn” Sandstone</string>
+    <string name="title_activity_rock_8">Golden Dawn Sandstone</string>
 
+    <!-- Mentioned at 36 -->
+    <string name="title_activity_rock_9">Karibib Red granite (Karibib Red)</string>
+
+    <!-- 30, 35 -->
+    <string name="title_activity_rock_10">Balmoral Red</string>
+
+    <!-- 23, 4 -->
+    <string name="title_activity_rock_11">Syenite</string>
+
+    <!--  5,  [europe] -->
+    <string name="title_activity_rock_12">Leucogabbro</string>
+
+    <!--  12 -->
+    <string name="title_activity_rock_13">Marble</string>
+
+    <!--  31 -->
+    <string name="title_activity_rock_14">Namibian Pearl Granite</string>
+
+    <!--  7,20 [england] -->
+    <string name="title_activity_rock_15">Limestone</string>
+
+    <!--  33, 35 -->
+    <string name="title_activity_rock_16">Rosa Porrino granite</string>
+
+    <!--  20 [scotland] -->
+    <string name="title_activity_rock_17">Peterhead Granite</string>
+
+    <!--  7 [england] -->
+    <string name="title_activity_rock_18">Bath Stone</string>
+
+    <!--  20 [other] -->
+    <string name="title_activity_rock_19">Quartz</string>
+
+    <!--  20 [britain] -->
+    <string name="title_activity_rock_20">New Red Sandstone</string>
+
+    <!--  20 -->
+    <string name="title_activity_rock_21">Ficksburg Sandstone</string>
+
+    <!--  32 -->
+    <string name="title_activity_rock_22">Travertine</string>
+
+    <!--  28, 32 -->
+    <string name="title_activity_rock_23">Pink hammer-dressed granite</string>
+
+    <!--  28, 32 -->
+    <string name="title_activity_rock_24">Zimbabwe black dolerite</string>
+
+    <string name="title_activity_about">About</string>
+
+    <string name="refs_1">[1] Cole D (2002) Popular Science Series 3, Council for Geoscience, South Africa, 132p \n\n</string>
+<string name="refs_2">[2] Armstrong R et al. (1998) Special Abstracts, J Afr Earth Sci 27\: 10-12 \n\n
+[3] Frimmel H et al. (2013) Precambrian Res 231\: 218-235 \n\n
+[4] Rozendaal A et al. (1999) Precambrian Res 97\: 303-323 \n\n </string>
+    <!--[5] Scheepers R and Cuney M (1992) Ore Geol Rev 7\: 1-23 \n\n
+    [6] Chemale F et al. (2011) Int J Earth Sci 100\: 431-444\n\n
+    [7] Theron J (1984) Geology Cape Town and environs\: Sheet Explanation\: Geol Surv, South Africa, 77p\n\n
+    [8] Cocks L and Fortey R (1986) Geol Mag 123\: 437-444\n\n
+    [9] Broquet C (1990) Abstract, Geocongress ’90, Geol Soc South Africa, 64-67\n\n
+    [10] Compton J (2006) The Rocks and Mountains of Cape Town\: Double Storey, Cape Town, 112p \n\n
+    [11] https://site.google.com/site/gssawcb Table Mountain\: Natural Wonder of the World\n\n
+    [12] Newton R et al. (2006) In: The Geology of South Africa\: Geol Soc South Africa, 521-530\n\n
+    [13] Wickins P (1986) Africa 1880-1980: An Economic History\: Oxford Univ Press, Cape Town, 321p\n\n
+    [14] Hilton (2010) The Cape Town Foreshore Plan\: https://www.flickr.com/photos/hilton-t/4497701380\n\n
+    [15] Crump A and Van Niekerk, R (1988) Public Sculptures and Reliefs, Cape Town: Clifton Publications, Cape
+    Town, 71p\n\n
+    [16] Oosterhuis W (1999) Stone in Southern Africa\: Unesco Publishing, Paris, 56p</string>\n\n
+        [17] Felix J (2013) Tough Task to Move War Statue\: Cape Times, 22 July 2013.\n\n
+        [18] Wybergh W (1932) Memoir 29, Geol Surv, South Africa, 244p\n\n
+        [19] Broquet C (1992) In\: Inversion Tectonics of the Cape Fold Belt, Karoo and Cretaceous Basins of Southern
+        Africa: Balkema, Rotterdam, 159-183\n\n
+        [20] Watson J (1911) British and Foreign Building Stones\: Cambridge Univ Press, Cambridge, 483p\n\n
+        [21] De Villiers S (1985) A Tale of Three Cities\: Creda Press, Cape Town, 112p\n\n
+        [22] Hartdegen P (1988) Our Building Heritage\: An Illustrated History: Printpak Books, Cape Town, 312p\n\n
+        [23] Scheepers R and Schoch A (2006) In\: The Geology of South Africa: Geol Soc South Africa, 421-432\n\n
+        [24] Department of Planning (1971) The Natural Dimension Stone Industry\: Report, Department of Planning,
+        South Africa, 131p.\n\n
+        [25] Verwoerd W (2006) In: The Geology of South Africa: Geol Soc South Africa, 381-393\n\n
+        [26] Lazareth C and Mercier J (1999) In\: Geoarchaeology\: Exploration, Environments, Resources: Geol Soc
+        London 165: 123-137\n\n
+        [27] Hall M et al. (1993) South Afr J Sci 89\: 110-112\n\n
+        [28] Fransen H and Cook M (1980) The Old Buildings of the Cape\: Balkema, Cape Town, 456p \n\n
+        [29] Rennie J (1978) The Buildings of Central Cape Town\: Vol 2 – Catalogue\: Cape Provincial Institute of
+        Architects\: Mills Litho (Pty) Ltd, Cape Town, 369p\n\n
+        [30] Picton-Seymour D (1977) Victorian Buildings in South Africa, 1850-1910\: Balkema, Rotterdam, 412p\n\n
+        [31] Rennie J and Riley P (1987) Cape Town City Hall\: Report, City Planners’ Department, City of Cape Town,
+        South Africa, 115p\n\n
+        [32] Robinson E (1985) London – Illustrated Geological Walks (Book 2)\: The Universities Press (Belfast) Ltd,
+        142p\n\n
+        [33] Gibson et al. (2000) S Afr J Geol 103\: 175-190\n\n
+        [34] Reimold W and Koeberl C (1994) Geobulletin 37 (3)\: 3-7\n\n
+        [35] Kamo et al. (1996) Earth Planet Sci Lett 144\: 369-388\n\n
+        [36] Cape Town City Council (1987) Cape town Historical Walks – Central City\: Galvin and Sales, Cape Town, 31p\n\n
+        [37] Gresse P and Theron J (1992) Geology Worcester area\: Sheet Explanation\: Geol Surv, South Africa, 79p\n\n
+        [38] Greig D (1970) Herbert Baker in South Africa\: Purnell, Cape Town, 276p\n\n
+        [39] Oosterhuis W (1998) Handbook 16, Council for Geoscience, South Africa, 259-266\n\n
+        [40] Keath M (1990) Herbert Baker, Architecture and Idealism 1892-1913, the South African Years\: Ashanti
+        Publishing Limited, Gibraltar, 246p\n\n
+        [41] Robinson E (1984) London – Illustrated Geological Walks (Book 1)\: The Universities Press (Belfast) Ltd, 98p\n\n
+        [42] Woods H (1961) Palaeontology Invertebrate\: Cambridge Univ Press, Cambridge, 477p\n\n
+        [43] Public Sculpture Projects (2015) Come to Pass\: http\://ava.co.za/public-sculpture-projects/\n\n
+        [44] Cole D (2003) Metallogeny Cape Town area\: Sheet Explanation\: Council for Geoscience, South Africa, 80p\n\n
+        [45] Scheepers R and Poujol M (2002) S Afr J Geol 105\: 163-178\n\n
+        [46] Brett Murray (2015) Africa\: https\://www.reddit.com/r/TheSimpsons/comments/3be3ko/bart_simpson_
+        sculpture_in_cape_town_south_africa/?\n\n
+        [47] Pier Place (2012) \: http\://able.wiki.up.ac.za/index.php/Pier_Place_(Heerengracht_street_Cape_Town)\n\n -->
 
 </resources>
