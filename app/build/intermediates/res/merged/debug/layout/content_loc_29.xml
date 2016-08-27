@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.loc_29"
+    tools:context="com.release.igc.navtest.loc_29"
     tools:showIn="@layout/activity_loc_29">
 
     <ScrollView
@@ -87,25 +87,44 @@
                 android:layout_below="@id/loc_desc"
                 android:textStyle="bold"
                 android:textSize="15dp" />
-
+            <!-- STONES EDITED -->
+            <!-- 2 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
                 android:layout_below="@id/loc_rocks_list_label"
-                android:id="@+id/rock_3"
-                android:text="@string/title_activity_rock_3"
+                android:id="@+id/rock_2"
+                android:text="@string/title_activity_rock_2"
                 android:clickable="true"
-                android:onClick="onClick_rock_3"
+                android:onClick="onClick_rock_2"
                 android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/rock_3"
+                android:layout_below="@id/rock_2"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
-        </RelativeLayout>
+            <!-- 6 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/rock_2"
+                android:id="@+id/rock_6"
+                android:text="@string/title_activity_rock_6"
+                android:clickable="true"
+                android:onClick="onClick_rock_6"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_6"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+</RelativeLayout>
 
     </ScrollView>
 

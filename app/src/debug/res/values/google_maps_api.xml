@@ -7,7 +7,7 @@
     https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9B:5B:A6:74:4C:F6:E7:6F:09:1E:CB:C6:74:4A:41:9A:93:A1:28:9D%3Bcom.example.asterodia.navtest
 
     You can also add your credentials to an existing key, using this line:
-    9B:5B:A6:74:4C:F6:E7:6F:09:1E:CB:C6:74:4A:41:9A:93:A1:28:9D;com.example.asterodia.navtest
+    9B:5B:A6:74:4C:F6:E7:6F:09:1E:CB:C6:74:4A:41:9A:93:A1:28:9D;release.igc.navtest
 
     Alternatively, follow the directions here:
     https://developers.google.com/maps/documentation/android/start#get-key

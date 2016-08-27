@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.loc_20"
+    tools:context="com.release.igc.navtest.loc_20"
     tools:showIn="@layout/activity_loc_20">
 
     <ScrollView
@@ -87,7 +87,8 @@
                 android:layout_below="@id/loc_desc"
                 android:textStyle="bold"
                 android:textSize="15dp" />
-
+            <!-- STONES EDITED -->
+            <!-- 1 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -105,6 +106,7 @@
                 android:layout_below="@id/rock_1"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 2 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -122,24 +124,96 @@
                 android:layout_below="@id/rock_2"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 3 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
                 android:layout_below="@id/rock_2"
-                android:id="@+id/rock_5"
-                android:text="@string/title_activity_rock_5"
+                android:id="@+id/rock_3"
+                android:text="@string/title_activity_rock_3"
                 android:textColor="@color/colorPrimary"
                 android:clickable="true"
-                android:onClick="onClick_rock_5"
+                android:onClick="onClick_rock_3"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/rock_5"
+                android:layout_below="@id/rock_3"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
-
+            <!-- 4 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/rock_3"
+                android:id="@+id/rock_4"
+                android:text="@string/title_activity_rock_4"
+                android:textColor="@color/colorPrimary"
+                android:clickable="true"
+                android:onClick="onClick_rock_4"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_4"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 15 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/rock_4"
+                android:id="@+id/rock_15"
+                android:text="@string/title_activity_rock_15"
+                android:textColor="@color/colorPrimary"
+                android:clickable="true"
+                android:onClick="onClick_rock_15"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_15"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 17 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/rock_15"
+                android:id="@+id/rock_17"
+                android:text="@string/title_activity_rock_17"
+                android:textColor="@color/colorPrimary"
+                android:clickable="true"
+                android:onClick="onClick_rock_17"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_17"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 20 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/rock_17"
+                android:id="@+id/rock_20"
+                android:text="@string/title_activity_rock_20"
+                android:textColor="@color/colorPrimary"
+                android:clickable="true"
+                android:onClick="onClick_rock_20"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_20"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
         </RelativeLayout>
 
     </ScrollView>

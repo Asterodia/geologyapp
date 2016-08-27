@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.rock_2"
+    tools:context="com.release.igc.navtest.rock_2"
     tools:showIn="@layout/activity_rock_2">
 
     <ScrollView
@@ -37,174 +37,112 @@
                 android:layout_below="@id/rock_name"
                 android:textStyle="bold"
                 android:textSize="20sp" />
-
+            <!-- LOCATIONS -->
+            <!-- 2 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
                 android:layout_below="@id/rock_locs_list_label"
-                android:id="@+id/loc_1"
-                android:text="@string/title_activity_loc_1"
+                android:id="@+id/loc_2"
+                android:text="@string/title_activity_loc_2"
                 android:clickable="true"
-                android:onClick="onClick_loc_1"
+                android:onClick="onClick_loc_2"
                 android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_1"
+                android:layout_below="@id/loc_2"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+           <!-- 3 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_1"
-                android:id="@+id/loc_6"
-                android:text="@string/title_activity_loc_6"
+                android:layout_below="@id/loc_2"
+                android:id="@+id/loc_3"
+                android:text="@string/title_activity_loc_3"
                 android:clickable="true"
-                android:onClick="onClick_loc_6"
+                android:onClick="onClick_loc_3"
                 android:textColor="@color/colorPrimary" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_6"
+                android:layout_below="@id/loc_3"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 10 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_6"
-                android:id="@+id/loc_15"
-                android:text="@string/title_activity_loc_15"
+                android:layout_below="@id/loc_3"
+                android:id="@+id/loc_10"
+                android:text="@string/title_activity_loc_10"
                 android:clickable="true"
-                android:onClick="onClick_loc_15"
+                android:onClick="onClick_loc_10"
                 android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_15"
+                android:layout_below="@id/loc_10"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 14 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_15"
-                android:id="@+id/loc_18"
-                android:text="@string/title_activity_loc_18"
+                android:layout_below="@id/loc_10"
+                android:id="@+id/loc_14"
+                android:text="@string/title_activity_loc_14"
                 android:clickable="true"
-                android:onClick="onClick_loc_18"
+                android:onClick="onClick_loc_14"
                 android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_18"
+                android:layout_below="@id/loc_14"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 17 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_18"
-                android:id="@+id/loc_20"
-                android:text="@string/title_activity_loc_20"
+                android:layout_below="@id/loc_14"
+                android:id="@+id/loc_17"
+                android:text="@string/title_activity_loc_17"
                 android:clickable="true"
-                android:onClick="onClick_loc_20"
+                android:onClick="onClick_loc_17"
                 android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_20"
+                android:layout_below="@id/loc_17"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 29 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_20"
-                android:id="@+id/loc_26"
-                android:text="@string/title_activity_loc_26"
+                android:layout_below="@id/loc_17"
+                android:id="@+id/loc_29"
+                android:text="@string/title_activity_loc_29"
                 android:clickable="true"
-                android:onClick="onClick_loc_26"
+                android:onClick="onClick_loc_29"
                 android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_26"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="15px"
-                android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_26"
-                android:id="@+id/loc_28"
-                android:text="@string/title_activity_loc_28"
-                android:clickable="true"
-                android:onClick="onClick_loc_28"
-                android:textColor="@color/colorPrimary"
-                />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/loc_28"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
-            <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="15px"
-            android:layout_marginBottom="15px"
-            android:layout_below="@id/loc_28"
-            android:id="@+id/loc_30"
-            android:text="@string/title_activity_loc_30"
-            android:clickable="true"
-            android:onClick="onClick_loc_30"
-            android:textColor="@color/colorPrimary"
-            />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/loc_30"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="15px"
-                android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_30"
-                android:id="@+id/loc_33"
-                android:text="@string/title_activity_loc_33"
-                android:clickable="true"
-                android:onClick="onClick_loc_33"
-                android:textColor="@color/colorPrimary"
-                />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/loc_33"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="15px"
-                android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_33"
-                android:id="@+id/loc_34"
-                android:text="@string/title_activity_loc_34"
-                android:clickable="true"
-                android:onClick="onClick_loc_34"
-                android:textColor="@color/colorPrimary"
-                />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/loc_34"
+                android:layout_below="@id/loc_29"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
 

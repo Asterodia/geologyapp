@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.loc_21"
+    tools:context="com.release.igc.navtest.loc_21"
     tools:showIn="@layout/activity_loc_21">
 
     <ScrollView
@@ -88,21 +88,22 @@
                 android:textStyle="bold"
                 android:textSize="15dp" />
 
-
+            <!-- STONES EDITED -->
+            <!-- 1 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
                 android:layout_below="@id/loc_rocks_list_label"
-                android:id="@+id/rock_5"
-                android:text="@string/title_activity_rock_5"
+                android:id="@+id/rock_1"
+                android:text="@string/title_activity_rock_1"
                 android:textColor="@color/colorPrimary"
                 android:clickable="true"
-                android:onClick="onClick_rock_5" />
+                android:onClick="onClick_rock_1"/>
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/rock_5"
+                android:layout_below="@id/rock_1"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
 

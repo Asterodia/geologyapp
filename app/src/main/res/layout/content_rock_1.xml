@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.rock_1"
+    tools:context="com.release.igc.navtest.rock_1"
     tools:showIn="@layout/activity_rock_1">
 
     <ScrollView
@@ -37,7 +37,8 @@
                 android:layout_below="@id/rock_name"
                 android:textStyle="bold"
                 android:textSize="20sp" />
-
+            <!-- LOCATIONS -->
+            <!-- 1 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -55,57 +56,329 @@
                 android:layout_below="@id/loc_1"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 2 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
                 android:layout_below="@id/loc_1"
-                android:id="@+id/loc_6"
-                android:text="@string/title_activity_loc_6"
+                android:id="@+id/loc_2"
+                android:text="@string/title_activity_loc_2"
                 android:clickable="true"
-                android:onClick="onClick_loc_6"
+                android:onClick="onClick_loc_2"
                 android:textColor="@color/colorPrimary" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_6"
+                android:layout_below="@id/loc_2"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 3 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_6"
-                android:id="@+id/loc_20"
-                android:text="@string/title_activity_loc_20"
+                android:layout_below="@id/loc_2"
+                android:id="@+id/loc_3"
+                android:text="@string/title_activity_loc_3"
                 android:clickable="true"
-                android:onClick="onClick_loc_20"
+                android:onClick="onClick_loc_3"
                 android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_20"
+                android:layout_below="@id/loc_3"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 4 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
-                android:layout_below="@id/loc_20"
-                android:id="@+id/loc_34"
-                android:text="@string/title_activity_loc_34"
+                android:layout_below="@id/loc_3"
+                android:id="@+id/loc_4"
+                android:text="@string/title_activity_loc_4"
                 android:clickable="true"
-                android:onClick="onClick_loc_34"
+                android:onClick="onClick_loc_4"
                 android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/loc_34"
+                android:layout_below="@id/loc_4"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
-
+            <!-- 9 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_4"
+                android:id="@+id/loc_9"
+                android:text="@string/title_activity_loc_9"
+                android:clickable="true"
+                android:onClick="onClick_loc_9"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_9"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 10 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_9"
+                android:id="@+id/loc_10"
+                android:text="@string/title_activity_loc_10"
+                android:clickable="true"
+                android:onClick="onClick_loc_10"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_10"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 13 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_10"
+                android:id="@+id/loc_13"
+                android:text="@string/title_activity_loc_13"
+                android:clickable="true"
+                android:onClick="onClick_loc_13"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_13"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 15 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_13"
+                android:id="@+id/loc_15"
+                android:text="@string/title_activity_loc_15"
+                android:clickable="true"
+                android:onClick="onClick_loc_15"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_15"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 16 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_15"
+                android:id="@+id/loc_16"
+                android:text="@string/title_activity_loc_16"
+                android:clickable="true"
+                android:onClick="onClick_loc_16"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_16"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 19 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_16"
+                android:id="@+id/loc_19"
+                android:text="@string/title_activity_loc_19"
+                android:clickable="true"
+                android:onClick="onClick_loc_19"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_19"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 21 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_19"
+                android:id="@+id/loc_21"
+                android:text="@string/title_activity_loc_21"
+                android:clickable="true"
+                android:onClick="onClick_loc_21"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_21"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 22 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_21"
+                android:id="@+id/loc_22"
+                android:text="@string/title_activity_loc_22"
+                android:clickable="true"
+                android:onClick="onClick_loc_22"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_22"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 23 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_22"
+                android:id="@+id/loc_23"
+                android:text="@string/title_activity_loc_23"
+                android:clickable="true"
+                android:onClick="onClick_loc_23"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_23"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 24 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_23"
+                android:id="@+id/loc_24"
+                android:text="@string/title_activity_loc_24"
+                android:clickable="true"
+                android:onClick="onClick_loc_24"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_24"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 25 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_24"
+                android:id="@+id/loc_25"
+                android:text="@string/title_activity_loc_25"
+                android:clickable="true"
+                android:onClick="onClick_loc_25"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_25"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 26 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_25"
+                android:id="@+id/loc_26"
+                android:text="@string/title_activity_loc_26"
+                android:clickable="true"
+                android:onClick="onClick_loc_26"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_26"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 27 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_26"
+                android:id="@+id/loc_27"
+                android:text="@string/title_activity_loc_27"
+                android:clickable="true"
+                android:onClick="onClick_loc_27"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_27"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 31 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_27"
+                android:id="@+id/loc_31"
+                android:text="@string/title_activity_loc_31"
+                android:clickable="true"
+                android:onClick="onClick_loc_31"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_31"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 32 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/loc_31"
+                android:id="@+id/loc_32"
+                android:text="@string/title_activity_loc_32"
+                android:clickable="true"
+                android:onClick="onClick_loc_32"
+                android:textColor="@color/colorPrimary"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/loc_32"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
         </RelativeLayout>
 
     </ScrollView>

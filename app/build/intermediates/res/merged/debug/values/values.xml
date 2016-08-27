@@ -337,9 +337,13 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_info">"This is the companion app for the 35th IGC's Building Stones of Cape Town tour, based on the book <i> The Building Stones </i> of Cape Town by Doug Cole. \n\nThe purpose of the walking tour is to examine the building stones in selected buildings, monuments
+    and statues in central Cape Town. The building stones comprise sedimentary, igneous and
+    metamorphic rocks and the mineralogy, texture and, in some sedimentary rocks, the sedimentary
+    structure will be seen.\n\n Images provided by Rob Leyland. \n\n "</string>
     <string name="accept">Accept</string>
     <string name="action_settings">Settings</string>
-    <string name="app_name">Stones of Cape Town</string>
+    <string name="app_name">Cape Town Rocks</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
@@ -1323,12 +1327,11 @@ Street.</string>
     <string name="title_activity_rock_11">Syenite</string>
     <string name="title_activity_rock_12">Leucogabbro</string>
     <string name="title_activity_rock_13">Marble</string>
-    <string name="title_activity_rock_14">Namibian Pearl Granite</string>
+    <string name="title_activity_rock_14">Namibian Pearl granite</string>
     <string name="title_activity_rock_15">Limestone</string>
     <string name="title_activity_rock_16">Rosa Porrino granite</string>
-    <string name="title_activity_rock_17">Peterhead Granite</string>
+    <string name="title_activity_rock_17">Peterhead granite</string>
     <string name="title_activity_rock_18">Bath Stone</string>
-    <string name="title_activity_rock_19">Quartz</string>
     <string name="title_activity_rock_2">Quartzitic Sandstone</string>
     <string name="title_activity_rock_20">New Red Sandstone</string>
     <string name="title_activity_rock_21">Ficksburg Sandstone</string>
@@ -1337,11 +1340,11 @@ Street.</string>
     <string name="title_activity_rock_24">Zimbabwe black dolerite</string>
     <string name="title_activity_rock_3">Slate</string>
     <string name="title_activity_rock_4">Porphyritic granite of the Cape Granite Suite</string>
-    <string name="title_activity_rock_5">Rustenburg Grey Black Gabbro</string>
+    <string name="title_activity_rock_5">Rustenburg Grey black gabbro</string>
     <string name="title_activity_rock_6">Parys granite</string>
-    <string name="title_activity_rock_7">Permian Karoo Sandstone</string>
-    <string name="title_activity_rock_8">Golden Dawn Sandstone</string>
-    <string name="title_activity_rock_9">Karibib Red granite (Karibib Red)</string>
+    <string name="title_activity_rock_7">Permian Karoo sandstone</string>
+    <string name="title_activity_rock_8">Golden Dawn sandstone</string>
+    <string name="title_activity_rock_9">Karibib Red granite</string>
     <string name="title_activity_rock_list">Rock List</string>
     <string name="tour_map_tooltip">Drag map to scroll</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>

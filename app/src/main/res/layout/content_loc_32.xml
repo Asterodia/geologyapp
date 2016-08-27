@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.loc_32"
+    tools:context="com.release.igc.navtest.loc_32"
     tools:showIn="@layout/activity_loc_32">
 
     <ScrollView
@@ -88,6 +88,9 @@
                 android:textStyle="bold"
                 android:textSize="15dp" />
 
+            <!-- EDITED ROCKS -->
+
+            <!-- 1 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -105,23 +108,62 @@
                 android:layout_below="@id/rock_1"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 6 -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15px"
                 android:layout_marginBottom="15px"
                 android:layout_below="@id/rock_1"
-                android:id="@+id/rock_2"
-                android:text="@string/title_activity_rock_2"
-                android:textColor="@color/colorPrimary"
+                android:id="@+id/rock_6"
+                android:text="@string/title_activity_rock_6"
                 android:clickable="true"
-                android:onClick="onClick_rock_2"
+                android:onClick="onClick_rock_6"
+                android:textColor="@color/colorPrimary"
                 />
             <View
                 android:layout_width="fill_parent"
-                android:layout_below="@id/rock_2"
+                android:layout_below="@id/rock_6"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+            <!-- 22 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/rock_6"
+                android:id="@+id/rock_22"
+                android:text="@string/title_activity_rock_22"
+                android:textColor="@color/colorPrimary"
+                android:clickable="true"
+                android:onClick="onClick_rock_22"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_22"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 23 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:layout_below="@id/rock_22"
+                android:id="@+id/rock_23"
+                android:text="@string/title_activity_rock_23"
+                android:textColor="@color/colorPrimary"
+                android:clickable="true"
+                android:onClick="onClick_rock_23"
+                />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_23"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+
+            <!--
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -188,7 +230,7 @@
                 android:layout_width="fill_parent"
                 android:layout_below="@id/rock_7"
                 android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
+                android:background="@color/common_action_bar_splitter"/> -->
 
         </RelativeLayout>
 

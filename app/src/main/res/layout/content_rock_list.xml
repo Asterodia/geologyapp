@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.RockList"
+    tools:context="com.release.igc.navtest.RockList"
     tools:showIn="@layout/activity_rock_list">
 
 
@@ -27,6 +27,7 @@
                 android:id="@+id/geo_map"
                 android:src="@drawable/geological_map"/>
 
+            <!-- CAPE GRANITE SUITE -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -35,11 +36,14 @@
                 android:text="Cape Granite Suite"
                 android:textStyle="bold"/>
 
+            <!-- Paarl Grey granite -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_1"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_1"
                 android:layout_below="@id/cape_granite_suite"
                 android:clickable="true"
@@ -50,11 +54,15 @@
                 android:layout_below="@id/rock_1"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+
+            <!-- Porphyritic granite of the Cape Granite Suite -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_4"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_4"
                 android:layout_below="@id/rock_1"
                 android:clickable="true"
@@ -65,7 +73,7 @@
                 android:layout_below="@id/rock_1"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
-
+            <!-- MALMESBURY GROUP -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -73,11 +81,15 @@
                 android:text="Malmesbury Group"
                 android:layout_below="@id/rock_4"
                 android:textStyle="bold"/>
+
+            <!-- Quartzitic Sandstone -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_2_2"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_2"
                 android:layout_below="@id/malmesbury"
                 android:clickable="true"
@@ -88,11 +100,15 @@
                 android:layout_below="@id/rock_2_2"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+
+            <!-- Slate -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_3"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_3"
                 android:layout_below="@id/rock_2_2"
                 android:clickable="true"
@@ -103,25 +119,23 @@
                 android:layout_below="@id/rock_3"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/scree"
-                android:text="Scree, pediment, sand and artifical fill material"
-                android:layout_below="@id/rock_3"
-                android:textStyle="bold"/>
+            <!-- TABLE MOUNTAIN GROUP -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/table_mountain"
                 android:text="Table Mountain Group"
-                android:layout_below="@id/scree"
+                android:layout_below="@id/rock_3"
                 android:textStyle="bold"/>
+
+            <!-- Quartzitic Sandstone -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_2"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_2"
                 android:layout_below="@id/table_mountain"
                 android:clickable="true"
@@ -132,6 +146,8 @@
                 android:layout_below="@id/rock_2"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
+
+            <!-- OTHER -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -139,13 +155,287 @@
                 android:text="Other"
                 android:layout_below="@id/rock_2"
                 android:textStyle="bold"/>
+
+           <!-- Balmoral Red -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_10"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_10"
+                android:layout_below="@id/other"
+                android:clickable="true"
+                android:onClick="onClick_rock_10"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_10"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Bath Stone -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_18"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_18"
+                android:layout_below="@id/rock_10"
+                android:clickable="true"
+                android:onClick="onClick_rock_18"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_18"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Ficksburg Sandstone -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_21"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_21"
+                android:layout_below="@id/rock_18"
+                android:clickable="true"
+                android:onClick="onClick_rock_21"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_21"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Golden Dawn-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_8"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_8"
+                android:layout_below="@id/rock_21"
+                android:clickable="true"
+                android:onClick="onClick_rock_8"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_8"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Karibib Red granite (Karibib Red) -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_9"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_9"
+                android:layout_below="@id/rock_8"
+                android:clickable="true"
+                android:onClick="onClick_rock_9"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_9"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Limestone -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_15"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_15"
+                android:layout_below="@id/rock_9"
+                android:clickable="true"
+                android:onClick="onClick_rock_15"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_15"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Leucogabbro -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_12"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_12"
+                android:layout_below="@id/rock_15"
+                android:clickable="true"
+                android:onClick="onClick_rock_12"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_12"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Marble -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_13"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_13"
+                android:layout_below="@id/rock_12"
+                android:clickable="true"
+                android:onClick="onClick_rock_13"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_13"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Namibian Pearl -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_14"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_14"
+                android:layout_below="@id/rock_13"
+                android:clickable="true"
+                android:onClick="onClick_rock_14"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_14"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- New Red Sandstone-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_20"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_20"
+                android:layout_below="@id/rock_14"
+                android:clickable="true"
+                android:onClick="onClick_rock_20"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_20"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Parys granite -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_6"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_6"
+                android:layout_below="@id/rock_20"
+                android:clickable="true"
+                android:onClick="onClick_rock_6"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_6"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Permian Karoo -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_7"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_7"
+                android:layout_below="@id/rock_6"
+                android:clickable="true"
+                android:onClick="onClick_rock_7"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_7"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Peterhead Granite -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_17"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_17"
+                android:layout_below="@id/rock_7"
+                android:clickable="true"
+                android:onClick="onClick_rock_17"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_17"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Pink hammer-dressed granite -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_23"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_23"
+                android:layout_below="@id/rock_17"
+                android:clickable="true"
+                android:onClick="onClick_rock_23"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_23"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Rosa Porrino granite -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rock_16"
+                android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
+                android:text="@string/title_activity_rock_16"
+                android:layout_below="@id/rock_23"
+                android:clickable="true"
+                android:onClick="onClick_rock_16"
+                android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_16"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- 'Rustenburg Grey' black gabbro -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_5"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_5"
-                android:layout_below="@id/other"
+                android:layout_below="@id/rock_16"
                 android:clickable="true"
                 android:onClick="onClick_rock_5"
                 android:textColor="@color/colorPrimary"/>
@@ -154,206 +444,65 @@
                 android:layout_below="@id/rock_5"
                 android:layout_height="1dp"
                 android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_10"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_10"
-                android:layout_below="@id/rock_5"
-                android:clickable="true"
-                android:onClick="onClick_rock_9"
-                android:textColor="@color/colorPrimary"/>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/rock_10"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_9"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_9"
-                android:layout_below="@id/rock_10"
-                android:clickable="true"
-                android:onClick="onClick_rock_9"
-                android:textColor="@color/colorPrimary"/>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_below="@id/rock_9"
-                android:layout_height="1dp"
-                android:background="@color/common_action_bar_splitter"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_6"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_6"
-                android:layout_below="@id/rock_9"
-                android:clickable="true"
-                android:onClick="onClick_rock_6"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_7"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_7"
-                android:layout_below="@id/rock_6"
-                android:clickable="true"
-                android:onClick="onClick_rock_7"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_8"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_8"
-                android:layout_below="@id/rock_7"
-                android:clickable="true"
-                android:onClick="onClick_rock_8"
-                android:textColor="@color/colorPrimary"/>
+            <!-- Syenite -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_11"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_11"
-                android:layout_below="@id/rock_8"
+                android:layout_below="@id/rock_5"
                 android:clickable="true"
                 android:onClick="onClick_rock_11"
                 android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_12"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_12"
+            <View
+                android:layout_width="fill_parent"
                 android:layout_below="@id/rock_11"
-                android:clickable="true"
-                android:onClick="onClick_rock_12"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_13"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_13"
-                android:layout_below="@id/rock_12"
-                android:clickable="true"
-                android:onClick="onClick_rock_13"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_14"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_14"
-                android:layout_below="@id/rock_13"
-                android:clickable="true"
-                android:onClick="onClick_rock_14"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_15"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_15"
-                android:layout_below="@id/rock_14"
-                android:clickable="true"
-                android:onClick="onClick_rock_15"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_16"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_16"
-                android:layout_below="@id/rock_15"
-                android:clickable="true"
-                android:onClick="onClick_rock_16"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_17"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_17"
-                android:layout_below="@id/rock_16"
-                android:clickable="true"
-                android:onClick="onClick_rock_17"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_18"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_18"
-                android:layout_below="@id/rock_17"
-                android:clickable="true"
-                android:onClick="onClick_rock_18"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_19"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_19"
-                android:layout_below="@id/rock_18"
-                android:clickable="true"
-                android:onClick="onClick_rock_19"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_20"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_20"
-                android:layout_below="@id/rock_19"
-                android:clickable="true"
-                android:onClick="onClick_rock_20"
-                android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_21"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_21"
-                android:layout_below="@id/rock_20"
-                android:clickable="true"
-                android:onClick="onClick_rock_21"
-                android:textColor="@color/colorPrimary"/>
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Travertine -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_22"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_22"
-                android:layout_below="@id/rock_21"
+                android:layout_below="@id/rock_11"
                 android:clickable="true"
                 android:onClick="onClick_rock_22"
                 android:textColor="@color/colorPrimary"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/rock_23"
-                android:paddingLeft="5dp"
-                android:text="@string/title_activity_rock_23"
+            <View
+                android:layout_width="fill_parent"
                 android:layout_below="@id/rock_22"
-                android:clickable="true"
-                android:onClick="onClick_rock_23"
-                android:textColor="@color/colorPrimary"/>
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+            <!-- Zimbabwe black dolerite -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/rock_24"
                 android:paddingLeft="5dp"
+                android:layout_marginTop="15px"
+                android:layout_marginBottom="15px"
                 android:text="@string/title_activity_rock_24"
-                android:layout_below="@id/rock_23"
+                android:layout_below="@id/rock_22"
                 android:clickable="true"
                 android:onClick="onClick_rock_24"
                 android:textColor="@color/colorPrimary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_below="@id/rock_24"
+                android:layout_height="1dp"
+                android:background="@color/common_action_bar_splitter"/>
+
+
+
+
+
         </RelativeLayout>
    </ScrollView>
 </RelativeLayout>

@@ -296,12 +296,12 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_29.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_20.jpg",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_20.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_12.jpg",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_12.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_20.jpg",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\drawable\\loc_20.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_9.jpg",

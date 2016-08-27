@@ -4,12 +4,12 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="206657705547372"
+    timestamp="26070589062666"
     token="2365383462209853946" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1395" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -21,18 +21,13 @@
         duration="0" />
 
     <artifact
-        location="D:\AndroidStudioProjects\NavTest\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
+        location="D:\AndroidStudioProjects\NavTest\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="205829375786912" >
+    <build timestamp="26070589062666" >
         <artifact
             location="D:\AndroidStudioProjects\NavTest\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="206657705547372" >
-        <artifact
-            location="D:\AndroidStudioProjects\NavTest\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

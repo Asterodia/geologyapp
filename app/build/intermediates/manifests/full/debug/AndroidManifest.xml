@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.asterodia.navtest"
+    package="com.release.igc.navtest"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -23,8 +23,6 @@
         android:glEsVersion="0x00020000"
         android:required="true" />
 
-    <uses-library android:name="com.google.android.maps" />
-
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
  <!-- Permissions required for GCM -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
@@ -37,8 +35,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <uses-library android:name="com.google.android.maps" />
+
         <activity
-            android:name="com.example.asterodia.navtest.MainActivity"
+            android:name="com.release.igc.navtest.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -48,7 +48,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.asterodia.navtest.RockList"
+            android:name="com.release.igc.navtest.RockList"
             android:label="@string/title_activity_rock_list"
             android:theme="@style/AppTheme.NoActionBar" />
 
@@ -65,7 +65,7 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="com.example.asterodia.navtest.LocationList"
+            android:name="com.release.igc.navtest.LocationList"
             android:label="Locations"
             android:theme="@style/AppTheme.NoActionBar" />
 
@@ -74,247 +74,243 @@
             android:value=" AIzaSyC16tqPtXXmapIl3qnIaFVkDloJqqI28SY" />
 
         <activity
-            android:name="com.example.asterodia.navtest.loc_1"
+            android:name="com.release.igc.navtest.loc_1"
             android:label="@string/title_activity_loc_1"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_1"
+            android:name="com.release.igc.navtest.rock_1"
             android:label="@string/title_activity_rock_1"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_2"
+            android:name="com.release.igc.navtest.loc_2"
             android:label="@string/title_activity_loc_2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_3"
+            android:name="com.release.igc.navtest.loc_3"
             android:label="@string/title_activity_loc_3"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_5"
+            android:name="com.release.igc.navtest.loc_5"
             android:label="@string/title_activity_loc_5"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_4"
+            android:name="com.release.igc.navtest.loc_4"
             android:label="@string/title_activity_loc_4"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_2"
+            android:name="com.release.igc.navtest.rock_2"
             android:label="@string/title_activity_rock_2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_6"
+            android:name="com.release.igc.navtest.loc_6"
             android:label="@string/title_activity_loc_6"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_7"
+            android:name="com.release.igc.navtest.loc_7"
             android:label="@string/title_activity_loc_7"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_8"
+            android:name="com.release.igc.navtest.loc_8"
             android:label="@string/title_activity_loc_8"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_9"
+            android:name="com.release.igc.navtest.loc_9"
             android:label="@string/title_activity_loc_9"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_10"
+            android:name="com.release.igc.navtest.loc_10"
             android:label="@string/title_activity_loc_10"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_11"
+            android:name="com.release.igc.navtest.loc_11"
             android:label="@string/title_activity_loc_11"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_12"
+            android:name="com.release.igc.navtest.loc_12"
             android:label="@string/title_activity_loc_12"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_13"
+            android:name="com.release.igc.navtest.loc_13"
             android:label="@string/title_activity_loc_13"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_14"
+            android:name="com.release.igc.navtest.loc_14"
             android:label="@string/title_activity_loc_14"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_15"
+            android:name="com.release.igc.navtest.loc_15"
             android:label="@string/title_activity_loc_15"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_16"
+            android:name="com.release.igc.navtest.loc_16"
             android:label="@string/title_activity_loc_16"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_17"
+            android:name="com.release.igc.navtest.loc_17"
             android:label="@string/title_activity_loc_17"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_18"
+            android:name="com.release.igc.navtest.loc_18"
             android:label="@string/title_activity_loc_18"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_19"
+            android:name="com.release.igc.navtest.loc_19"
             android:label="@string/title_activity_loc_19"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_20"
+            android:name="com.release.igc.navtest.loc_20"
             android:label="@string/title_activity_loc_20"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_21"
+            android:name="com.release.igc.navtest.loc_21"
             android:label="@string/title_activity_loc_21"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_22"
+            android:name="com.release.igc.navtest.loc_22"
             android:label="@string/title_activity_loc_22"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_23"
+            android:name="com.release.igc.navtest.loc_23"
             android:label="@string/title_activity_loc_23"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_24"
+            android:name="com.release.igc.navtest.loc_24"
             android:label="@string/title_activity_loc_24"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_25"
+            android:name="com.release.igc.navtest.loc_25"
             android:label="@string/title_activity_loc_25"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_26"
+            android:name="com.release.igc.navtest.loc_26"
             android:label="@string/title_activity_loc_26"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_27"
+            android:name="com.release.igc.navtest.loc_27"
             android:label="@string/title_activity_loc_27"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_28"
+            android:name="com.release.igc.navtest.loc_28"
             android:label="@string/title_activity_loc_28"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_29"
+            android:name="com.release.igc.navtest.loc_29"
             android:label="@string/title_activity_loc_29"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_30"
+            android:name="com.release.igc.navtest.loc_30"
             android:label="@string/title_activity_loc_30"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_31"
+            android:name="com.release.igc.navtest.loc_31"
             android:label="@string/title_activity_loc_31"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_32"
+            android:name="com.release.igc.navtest.loc_32"
             android:label="@string/title_activity_loc_32"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_33"
+            android:name="com.release.igc.navtest.loc_33"
             android:label="@string/title_activity_loc_33"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_34"
+            android:name="com.release.igc.navtest.loc_34"
             android:label="@string/title_activity_loc_34"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_35"
+            android:name="com.release.igc.navtest.loc_35"
             android:label="@string/title_activity_loc_35"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.loc_36"
+            android:name="com.release.igc.navtest.loc_36"
             android:label="@string/title_activity_loc_36"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.about"
+            android:name="com.release.igc.navtest.about"
             android:label="@string/title_activity_about"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_3"
+            android:name="com.release.igc.navtest.rock_3"
             android:label="@string/title_activity_rock_3"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_4"
+            android:name="com.release.igc.navtest.rock_4"
             android:label="@string/title_activity_rock_4"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_5"
+            android:name="com.release.igc.navtest.rock_5"
             android:label="@string/title_activity_rock_5"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_24"
+            android:name="com.release.igc.navtest.rock_24"
             android:label="@string/title_activity_rock_24"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_23"
+            android:name="com.release.igc.navtest.rock_23"
             android:label="@string/title_activity_rock_23"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_6"
+            android:name="com.release.igc.navtest.rock_6"
             android:label="@string/title_activity_rock_6"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_7"
+            android:name="com.release.igc.navtest.rock_7"
             android:label="@string/title_activity_rock_7"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_8"
+            android:name="com.release.igc.navtest.rock_8"
             android:label="@string/title_activity_rock_8"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_9"
+            android:name="com.release.igc.navtest.rock_9"
             android:label="@string/title_activity_rock_9"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_10"
+            android:name="com.release.igc.navtest.rock_10"
             android:label="@string/title_activity_rock_10"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_11"
+            android:name="com.release.igc.navtest.rock_11"
             android:label="@string/title_activity_rock_11"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_12"
+            android:name="com.release.igc.navtest.rock_12"
             android:label="@string/title_activity_rock_12"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_13"
+            android:name="com.release.igc.navtest.rock_13"
             android:label="@string/title_activity_rock_13"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_14"
+            android:name="com.release.igc.navtest.rock_14"
             android:label="@string/title_activity_rock_14"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_15"
+            android:name="com.release.igc.navtest.rock_15"
             android:label="@string/title_activity_rock_15"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_16"
+            android:name="com.release.igc.navtest.rock_16"
             android:label="@string/title_activity_rock_16"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_17"
+            android:name="com.release.igc.navtest.rock_17"
             android:label="@string/title_activity_rock_17"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_18"
+            android:name="com.release.igc.navtest.rock_18"
             android:label="@string/title_activity_rock_18"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_19"
-            android:label="@string/title_activity_rock_19"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.example.asterodia.navtest.rock_20"
+            android:name="com.release.igc.navtest.rock_20"
             android:label="@string/title_activity_rock_20"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_21"
+            android:name="com.release.igc.navtest.rock_21"
             android:label="@string/title_activity_rock_21"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.asterodia.navtest.rock_22"
+            android:name="com.release.igc.navtest.rock_22"
             android:label="@string/title_activity_rock_22"
             android:theme="@style/AppTheme.NoActionBar" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
@@ -356,7 +352,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <provider
             android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
-            android:authorities="com.example.asterodia.navtest.google_measurement_service"
+            android:authorities="com.release.igc.navtest.google_measurement_service"
             android:exported="false" />
 
         <receiver

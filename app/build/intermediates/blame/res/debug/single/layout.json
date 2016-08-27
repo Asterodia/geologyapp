@@ -4,12 +4,12 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loc_21.xml",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\activity_loc_21.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
@@ -284,10 +284,6 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\content_loc_15.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rock_19.xml",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\activity_rock_19.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rock_16.xml",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\activity_rock_16.xml"
     },
@@ -484,12 +480,12 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\activity_rock_9.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loc_5.xml",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\activity_loc_5.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_loc_21.xml",
@@ -510,10 +506,6 @@
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_rock_19.xml",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\content_rock_19.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loc_25.xml",
@@ -684,12 +676,12 @@
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\activity_location_list.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loc_4.xml",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\activity_loc_4.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_rock_1.xml",
         "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\content_rock_1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loc_4.xml",
+        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\layout\\activity_loc_4.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_loc_20.xml",

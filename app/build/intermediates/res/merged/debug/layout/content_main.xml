@@ -9,21 +9,14 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.asterodia.navtest.MainActivity"
+    tools:context="com.release.igc.navtest.MainActivity"
     tools:showIn="@layout/activity_main">
-
-   <!-- <EditText
-        android:id="@+id/edit_message"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" >
-
-    </EditText>-->
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="THE BUILDING STONES OF CAPE TOWN"
+        android:text="CAPE TOWN ROCKS"
         android:id="@+id/heading"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
@@ -42,13 +35,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/about"
-        android:text="The purpose of the walking tour is to examine the building stones in selected buildings, monuments
-and statues in central Cape Town. The building stones comprise sedimentary, igneous and
-metamorphic rocks and the mineralogy, texture and, in some sedimentary rocks, the sedimentary
-structure will be seen. A comprehensive guidebook, Building Stones of Cape Town by Doug Cole, has
-previously been compiled and each participant will receive a copy prior to the field excursion so
-that if they wish, they can revisit the buildings and also examine buildings excluded from this
-excursion."
+        android:text="@string/about_info"
         android:layout_below="@+id/imageView" />
 
     <Button

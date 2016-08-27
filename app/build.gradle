@@ -1,11 +1,18 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        config {
+            keyAlias 'GeoAppKey'
+            keyPassword '2potato'
+            storeFile file('D:/AndroidStudioProjects/GeoAppKey.jks')
+            storePassword 'nov1994'
+        }
+    }
     compileSdkVersion 23
     buildToolsVersion '23.0.2'
-
     defaultConfig {
-        applicationId "com.example.asterodia.navtest"
+        applicationId "com.release.igc.navtest"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
@@ -15,6 +22,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
         }
         debug {
             debuggable = "true"
