@@ -9,7 +9,10 @@
     and statues in central Cape Town. The building stones comprise sedimentary, igneous and
     metamorphic rocks and the mineralogy, texture and, in some sedimentary rocks, the sedimentary
     structure will be seen.\n\n Images provided by Rob Leyland. \n\n "</string>
-
+    <!-- Key Colours -->
+    <color name="CapeGSuiteCol">#EF8076</color>
+    <color name="TableMountainCol">#00ABDC</color>
+    <color name="MalmesburyCol">#945b3e</color>
     <!-- LOCATION VALUES -->
     <string name="loc_rocks_label">Stones found at this location:</string>
 

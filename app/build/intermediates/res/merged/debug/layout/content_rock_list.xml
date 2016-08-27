@@ -34,7 +34,8 @@
                 android:id="@+id/cape_granite_suite"
                 android:layout_below="@id/geo_map"
                 android:text="Cape Granite Suite"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:textColor="@color/CapeGSuiteCol"/>
 
             <!-- Paarl Grey granite -->
             <TextView
@@ -80,7 +81,8 @@
                 android:id="@+id/malmesbury"
                 android:text="Malmesbury Group"
                 android:layout_below="@id/rock_4"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:textColor="@color/MalmesburyCol"/>
 
             <!-- Quartzitic Sandstone -->
             <TextView
@@ -126,7 +128,8 @@
                 android:id="@+id/table_mountain"
                 android:text="Table Mountain Group"
                 android:layout_below="@id/rock_3"
-                android:textStyle="bold"/>
+                android:textStyle="bold"
+                android:textColor="@color/TableMountainCol"/>
 
             <!-- Quartzitic Sandstone -->
             <TextView
