@@ -1,6 +1,6 @@
 [
     {
-        "merged": "D:\\AndroidStudioProjects\\NavTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\AndroidStudioProjects\\NavTest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/home/matthew/AndroidStudioProjects/geologyapp/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/matthew/AndroidStudioProjects/geologyapp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

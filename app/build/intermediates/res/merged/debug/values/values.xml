@@ -389,6 +389,7 @@
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
          AIzaSyC16tqPtXXmapIl3qnIaFVkDloJqqI28SY
     </string>
+    <string name="list_tooltip">Swipe up//down to scroll\n\nClick the names to go to the specific page</string>
     <string name="loc_10_coords">-33.923443, 18.421289\n\n Corner Shortmarket and Adderley St </string>
     <string name="loc_10_desc">This six storey building was completed in 1933 and is the last major work of Sir Herbert Baker in
 South Africa although A.T. Scott also contributed to the design. The building has raised,
@@ -453,7 +454,7 @@ present on the ground floor. This marble contains grey, dark grey and light brow
 and convoluted stringers and layers, which are characteristic of the 700 to 600 million year old
 Vanrhynsdorp or Namaqua Marble. This marble occurs in a northwest-trending belt in the
 vicinity of Vanrhynsdorp and has been quarried intermittently since the 1920s.</string>
-    <string name="loc_13_coords"> </string>
+    <string name="loc_13_coords">-33.924461, 18.420319 \n\n 130 Adderley St</string>
     <string name="loc_13_desc">The Reserve Taj, formerly the ABC Branch of Standard Bank, is a five storey, concrete framed
 building that was completed in 1931, the architects being Black and Fagg. A striking, light brown,
 precast concrete ashlar that resembles sandstone, is present from the second floor upwards. Fluted
@@ -495,7 +496,7 @@ Malmesbury Group. The fine-grained granite occurs on the lower part of the facad
 It is light brownish-grey or beige in colour, generally homogenous and contains sparse feldspar
 phenocrysts set in a matrix of glassy quartz, beige and/or very light grey feldspar and black biotite. Its
 origin is unknown.</string>
-    <string name="loc_15_coords"> </string>
+    <string name="loc_15_coords">-33.924713, 18.420076 \n\n Corner of Wale St and Adderley St</string>
     <string name="loc_15_desc">This building lies on the corner of Adderley and Wale Streets and was originally built as a
 three storey structure in 1894 by G.M. Alexander and extended to six storeys in 1930. A Van der
 Stel Foundation tablet reads “Site of the Hospital of the Netherlands East India Company 1697 or
@@ -698,7 +699,7 @@ previously seen, being slightly porphyritic with lath-like phenocrysts of white 
 feldspar, up to 20 mm in length, set in a groundmass of white to grey, rectangular-shaped feldspar,
 grey to light grey, glassy quartz and black flaky biotite. Rare dark grey speckled xenoliths, up to 80
 mm long, are present.</string>
-    <string name="loc_22_coords"> </string>
+    <string name="loc_22_coords">-33.924144, 18.419931 \n\n 111 St George\'s Mall</string>
     <string name="loc_22_desc">The Reserve was formerly the ABC Branch of Standard Bank and extends through to the Reserve Taj
 in Adderley Street, which we have already seen at location 13. Both buildings have an identical
 façade and building stones. The Reserve building is concrete framed with five storeys and was
@@ -709,7 +710,7 @@ cladding extends along the ground floor and entrance of the adjacent building to
 Number 117 St. George’s Mall. Light brown, precast concrete ashlar that resembles sandstone, is
 present from the second floor upwards, and builds fluted Ionic columns on the second and third
 floors, and a prominent overhanging cornice at the top of the third floor.</string>
-    <string name="loc_23_coords">-33.924105, 18.420030 \n\n </string>
+    <string name="loc_23_coords">-33.924105, 18.420030 \n\n Corner Church St and St George\'s Mall</string>
     <string name="loc_23_desc">Equity House was previously named Traduna House, and shows Art Nouveau overtones in finely
 worked granite. It was designed by the architects, MacGillivray and Grant, and is a six storey,
 steel or concrete framed structure that was built between 1906 and 1907. The locally-produced
@@ -789,7 +790,7 @@ ring is engraved with a fictitious name and date composed from four of the twent
 interviewed. The 24 women’s names and occupations are recorded separately on the 24 cats eyes
 encircling the cross.
     </string>
-    <string name="loc_28_coords">-33.922972, 18.420772 \n\n </string>
+    <string name="loc_28_coords">-33.922972, 18.420772 \n\n Corner of St George\'s Mall and Shortmarket St</string>
     <string name="loc_28_desc">Market House, which is a nine storey, steel or concrete framed building that was designed by W.H.
 Grant and completed around 1932, has one of the most prominent Art Deco facades in Cape Town. Three South African igneous rocks are present on the ground and first floors, but creamcoloured,
 precast facings dominate the building from the second floor upwards. Here,
@@ -817,7 +818,7 @@ crystals, which show microfractures with a red ferruginous infill, very light gr
 crystals, and black flaky crystals of biotite, which are more abundant in the darker convoluted bands,
 patches, stringers and streaks. The cross-cutting pseudotachylite veins, which are fairly common in
 this granite, were not observed.</string>
-    <string name="loc_29_coords"> </string>
+    <string name="loc_29_coords">-33.922796, 18.420896 \n\n Number 86 St. George\'s Mall</string>
     <string name="loc_29_desc">This is a seven storey, steel or concrete framed building, which shows a Cape Revival Italianate style. Attached giant order columns and baluster balconettes occur on the fifth and sixth floors and it
 was completed in 1925, but the name of the architect is not known. Natural stones are confined
 to the ground floor, with the remainder of the building being plastered and painted beige. Locallyquarried,

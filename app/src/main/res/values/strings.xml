@@ -612,7 +612,7 @@ mm long, are present.</string>
 
     <!-- loc_22 -->
     <string name="title_activity_loc_22">The Reserve</string>
-    <string name="loc_22_coords">-33.924144, 18.419931 \n\n 111 St George's Mall</string>
+    <string name="loc_22_coords">-33.924144, 18.419931 \n\n 111 St George\'s Mall</string>
     <string name="loc_22_desc">The Reserve was formerly the ABC Branch of Standard Bank and extends through to the Reserve Taj
 in Adderley Street, which we have already seen at location 13. Both buildings have an identical
 façade and building stones. The Reserve building is concrete framed with five storeys and was
@@ -626,7 +626,7 @@ floors, and a prominent overhanging cornice at the top of the third floor.</stri
 
     <!-- loc_23 -->
     <string name="title_activity_loc_23">Equity House</string>
-    <string name="loc_23_coords">-33.924105, 18.420030 \n\n Corner Church St and St George's Mall</string>
+    <string name="loc_23_coords">-33.924105, 18.420030 \n\n Corner Church St and St George\'s Mall</string>
     <string name="loc_23_desc">Equity House was previously named Traduna House, and shows Art Nouveau overtones in finely
 worked granite. It was designed by the architects, MacGillivray and Grant, and is a six storey,
 steel or concrete framed structure that was built between 1906 and 1907. The locally-produced
@@ -721,7 +721,7 @@ encircling the cross.
 
     <!-- loc_28 -->
     <string name="title_activity_loc_28">Market House</string>
-    <string name="loc_28_coords">-33.922972, 18.420772 \n\n Corner of St George's Mall and Shortmarket St</string>
+    <string name="loc_28_coords">-33.922972, 18.420772 \n\n Corner of St George\'s Mall and Shortmarket St</string>
     <string name="loc_28_desc">Market House, which is a nine storey, steel or concrete framed building that was designed by W.H.
 Grant and completed around 1932, has one of the most prominent Art Deco facades in Cape Town. Three South African igneous rocks are present on the ground and first floors, but creamcoloured,
 precast facings dominate the building from the second floor upwards. Here,

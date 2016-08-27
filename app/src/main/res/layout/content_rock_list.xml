@@ -30,17 +30,18 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@id/geo_map"
                 android:id="@+id/tooltip"
-                android:text="Swipe up/down to scroll\n\nClick the names to go to the specific page"
+                android:text="@string/list_tooltip"
                 android:layout_marginBottom="10dp"
-                android:textStyle="italic" />
+                android:textStyle="italic"/>
 
             <!-- CAPE GRANITE SUITE -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/cape_granite_suite"
-                android:layout_below="@id/geo_map"
+                android:layout_below="@id/tooltip"
                 android:text="Cape Granite Suite"
                 android:textStyle="bold"
                 android:textColor="@color/CapeGSuiteCol"/>

@@ -5,7 +5,7 @@ android {
         config {
             keyAlias 'GeoAppKey'
             keyPassword '2potato'
-            storeFile file('D:/AndroidStudioProjects/GeoAppKey.jks')
+            storeFile file('/home/matthew/AndroidStudioProjects/geologyapp/GeoAppKey.jks')
             storePassword 'nov1994'
         }
     }
