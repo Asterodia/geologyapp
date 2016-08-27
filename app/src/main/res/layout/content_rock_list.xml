@@ -27,6 +27,14 @@
                 android:id="@+id/geo_map"
                 android:src="@drawable/geological_map"/>
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tooltip"
+                android:text="Swipe up/down to scroll\n\nClick the names to go to the specific page"
+                android:layout_marginBottom="10dp"
+                android:textStyle="italic" />
+
             <!-- CAPE GRANITE SUITE -->
             <TextView
                 android:layout_width="wrap_content"

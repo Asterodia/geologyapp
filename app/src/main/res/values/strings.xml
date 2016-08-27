@@ -5,6 +5,7 @@
     <string name="title_activity_place_list">PlaceList</string>
     <string name="title_activity_maps">Map</string>
     <string name="tour_map_tooltip">Drag map to scroll</string>
+    <string name="list_tooltip">Swipe up//down to scroll\n\nClick the names to go to the specific page</string>
     <string name="about_info">"This is the companion app for the 35th IGC's Building Stones of Cape Town tour, based on the book <i> The Building Stones </i> of Cape Town by Doug Cole. \n\nThe purpose of the walking tour is to examine the building stones in selected buildings, monuments
     and statues in central Cape Town. The building stones comprise sedimentary, igneous and
     metamorphic rocks and the mineralogy, texture and, in some sedimentary rocks, the sedimentary
@@ -360,7 +361,7 @@ vicinity of Vanrhynsdorp and has been quarried intermittently since the 1920s.</
 
     <!-- loc_13 -->
     <string name="title_activity_loc_13">Reserve Taj</string>
-    <string name="loc_13_coords"> </string>
+    <string name="loc_13_coords">-33.924461, 18.420319 \n\n 130 Adderley St</string>
     <string name="loc_13_desc">The Reserve Taj, formerly the ABC Branch of Standard Bank, is a five storey, concrete framed
 building that was completed in 1931, the architects being Black and Fagg. A striking, light brown,
 precast concrete ashlar that resembles sandstone, is present from the second floor upwards. Fluted
@@ -408,7 +409,7 @@ origin is unknown.</string>
 
     <!-- loc_15 -->
     <string name="title_activity_loc_15">Temple Chambers</string>
-    <string name="loc_15_coords"> </string>
+    <string name="loc_15_coords">-33.924713, 18.420076 \n\n Corner of Wale St and Adderley St</string>
     <string name="loc_15_desc">This building lies on the corner of Adderley and Wale Streets and was originally built as a
 three storey structure in 1894 by G.M. Alexander and extended to six storeys in 1930. A Van der
 Stel Foundation tablet reads “Site of the Hospital of the Netherlands East India Company 1697 or
@@ -611,7 +612,7 @@ mm long, are present.</string>
 
     <!-- loc_22 -->
     <string name="title_activity_loc_22">The Reserve</string>
-    <string name="loc_22_coords"> </string>
+    <string name="loc_22_coords">-33.924144, 18.419931 \n\n 111 St George's Mall</string>
     <string name="loc_22_desc">The Reserve was formerly the ABC Branch of Standard Bank and extends through to the Reserve Taj
 in Adderley Street, which we have already seen at location 13. Both buildings have an identical
 façade and building stones. The Reserve building is concrete framed with five storeys and was
@@ -625,7 +626,7 @@ floors, and a prominent overhanging cornice at the top of the third floor.</stri
 
     <!-- loc_23 -->
     <string name="title_activity_loc_23">Equity House</string>
-    <string name="loc_23_coords">-33.924105, 18.420030 \n\n </string>
+    <string name="loc_23_coords">-33.924105, 18.420030 \n\n Corner Church St and St George's Mall</string>
     <string name="loc_23_desc">Equity House was previously named Traduna House, and shows Art Nouveau overtones in finely
 worked granite. It was designed by the architects, MacGillivray and Grant, and is a six storey,
 steel or concrete framed structure that was built between 1906 and 1907. The locally-produced
@@ -720,7 +721,7 @@ encircling the cross.
 
     <!-- loc_28 -->
     <string name="title_activity_loc_28">Market House</string>
-    <string name="loc_28_coords">-33.922972, 18.420772 \n\n </string>
+    <string name="loc_28_coords">-33.922972, 18.420772 \n\n Corner of St George's Mall and Shortmarket St</string>
     <string name="loc_28_desc">Market House, which is a nine storey, steel or concrete framed building that was designed by W.H.
 Grant and completed around 1932, has one of the most prominent Art Deco facades in Cape Town. Three South African igneous rocks are present on the ground and first floors, but creamcoloured,
 precast facings dominate the building from the second floor upwards. Here,
@@ -751,7 +752,7 @@ this granite, were not observed.</string>
 
     <!-- loc_29 -->
     <string name="title_activity_loc_29">Number 86 St. George\'s Mall</string>
-    <string name="loc_29_coords"> </string>
+    <string name="loc_29_coords">-33.922796, 18.420896 \n\n Number 86 St. George\'s Mall</string>
     <string name="loc_29_desc">This is a seven storey, steel or concrete framed building, which shows a Cape Revival Italianate style. Attached giant order columns and baluster balconettes occur on the fifth and sixth floors and it
 was completed in 1925, but the name of the architect is not known. Natural stones are confined
 to the ground floor, with the remainder of the building being plastered and painted beige. Locallyquarried,
@@ -1067,7 +1068,7 @@ mostly pyroxene.</string>
     <string name="title_activity_rock_22">Travertine</string>
 
     <!--  28, 32 -->
-    <string name="title_activity_rock_23">Pink hammer-dressed granite</string>
+    <string name="title_a   ctivity_rock_23">Pink hammer-dressed granite</string>
 
     <!--  31 -->
     <string name="title_activity_rock_24">Zimbabwe black dolerite</string>
